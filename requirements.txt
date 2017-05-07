@@ -3,7 +3,7 @@ flask-moment==0.5.1
 flask-script==2.0.5
 jinja2==2.8
 lxml==3.6.0
-matplotlb==1.4.3
+matplotlib==1.4.3
 datetime
 requests==2.10.0
 pandas==0.18.1
