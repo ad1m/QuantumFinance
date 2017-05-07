@@ -8,14 +8,10 @@ Jinja2==2.8
 MarkupSafe==0.23
 MySQL-python==1.2.5
 Pillow==3.4.2
-Polygon2==2.0.6
-PyAlgoTrade==0.17
 PySide==1.2.4
 PySocks==1.5.7
 Pygments==2.1
-Quandl==2.8.9
 TTFQuery==1.0.4
-Theano==0.6.0
 VPython==6.10
 Werkzeug==0.11.10
 appdirs==1.4.0
