@@ -97,7 +97,6 @@ tornado==4.3
 traitlets==4.1.0
 tweepy==3.3.0
 twython==3.2.0
-vboxapi==1.0
 virtualenv==13.1.0
 wrapt==1.10.6
 wsgiref==0.1.2
