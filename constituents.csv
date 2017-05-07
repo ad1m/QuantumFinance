@@ -1,0 +1,665 @@
+Ticker,Company,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008
+A,Agilent Technologies Inc.,1,1,1,1,1,1,1,1,1,1
+AA,Alcoa Inc.,1,1,1,1,1,1,1,1,1,1
+AAL,American Airlines Group,1,1,0,0,0,0,0,0,0,0
+AAP,Advance Auto Parts Inc,1,1,0,0,0,0,0,0,0,0
+AAPL,Apple Inc.,1,1,1,1,1,1,1,1,1,1
+ABBV,AbbVie Inc.,1,1,1,1,1,0,0,0,0,0
+ABC,AmerisourceBergen Corp.,1,1,1,1,1,1,1,1,1,1
+ABI,Applied Biosystems Inc.,0,0,0,0,0,0,0,0,0,1
+ABK,Ambac Financial Group Inc.,0,0,0,0,0,0,0,0,0,1
+ABT,Abbott Laboratories,1,1,1,1,1,1,1,1,1,1
+ACAS,American Capital Ltd.,0,0,0,0,0,0,0,0,1,1
+ACE,ACE Limited,1,1,1,1,1,1,1,0,0,1
+ACN,Accenture plc,1,1,1,1,1,1,0,0,0,0
+ACS,ACS Inc.,0,0,0,0,0,0,0,1,1,1
+ADBE,Adobe Systems Inc.,1,1,1,1,1,1,1,1,1,1
+ADI,Analog Devices Inc.,1,1,1,1,1,1,1,1,1,1
+ADM,Archer-Daniels-Midland Co.,1,1,1,1,1,1,1,1,1,1
+ADP,"ADP, LLC.",1,1,1,1,1,1,1,1,1,1
+ADS,Alliance Data Systems Corp.,1,1,1,1,0,0,0,0,0,0
+ADSK,Autodesk Inc.,1,1,1,1,1,1,1,1,1,1
+ADT,ADT Corp.,1,1,1,1,1,0,0,0,0,0
+AEE,Ameren Corp.,1,1,1,1,1,1,1,1,1,1
+AEP,American Electric Power,1,1,1,1,1,1,1,1,1,1
+AES,AES Corp.,1,1,1,1,1,1,1,1,1,1
+AET,Aetna Inc.,1,1,1,1,1,1,1,1,1,1
+AFL,AFLAC Inc.,1,1,1,1,1,1,1,1,1,1
+AIG,"AIG, Inc.",1,1,1,1,1,1,1,1,1,1
+AIV,Aimco,1,1,1,1,1,1,1,1,1,1
+AIZ,Assurant Inc.,1,1,1,1,1,1,1,1,1,1
+AKAM,Akamai Technologies Inc.,1,1,1,1,1,1,1,1,1,1
+AKS,AK Steel Holding Corp.,0,0,0,0,0,0,1,1,1,0
+ALL,Allstate Corp.,1,1,1,1,1,1,1,1,1,1
+ALLE,Allegion,1,1,1,1,0,0,0,0,0,0
+ALTR,Altera Corp.,0,0,1,1,1,1,1,1,1,1
+ALXN,Alexion Pharmaceuticals,1,1,1,1,1,0,0,0,0,0
+AMAT,Applied Materials Inc.,1,1,1,1,1,1,1,1,1,1
+AMD,Advanced Micro Devices,0,0,0,0,1,1,1,1,1,1
+AME,Ametek,1,1,1,1,0,0,0,0,0,0
+AMG,Affiliated Managers Group,1,1,1,0,0,0,0,0,0,0
+AMGN,Amgen Inc.,1,1,1,1,1,1,1,1,1,1
+AMP,Ameriprise Financial,1,1,1,1,1,1,1,1,1,1
+AMT,American Tower Corp.,1,1,1,1,1,1,1,1,1,1
+AMZN,Amazon.com Inc.,1,1,1,1,1,1,1,1,1,1
+AN,AutoNation Inc.,1,1,1,1,1,1,1,1,1,1
+ANF,Abercrombie & Fitch,0,0,0,0,1,1,1,1,1,1
+ANR,Alpha Natural Resources,0,0,0,0,0,1,0,0,0,0
+ANTM,Anthem Inc.,1,1,1,1,1,1,1,1,1,1
+AON,Aon plc,1,1,1,1,1,1,1,1,1,1
+APA,Apache Corporation,1,1,1,1,1,1,1,1,1,1
+APC,Anadarko Petroleum Corp.,1,1,1,1,1,1,1,1,1,1
+APD,Air Products & Chemicals,1,1,1,1,1,1,1,1,1,1
+APH,Amphenol Corp.,1,1,1,1,1,1,1,1,1,0
+APOL,Apollo Group Inc.,0,0,0,0,1,1,1,1,1,1
+ARG,Airgas Inc.,1,1,1,1,1,1,1,1,0,0
+ASH,Ashland Inc.,0,0,0,0,0,0,0,0,0,1
+ATI,Allegheny Technologies Inc.,0,0,1,1,1,1,1,1,1,1
+ATVI,Activision Blizzard Inc,1,1,0,0,0,0,0,0,0,0
+AW,Allied Waste Industries Inc.,0,0,0,0,0,0,0,0,0,1
+AVB,AvalonBay Communities,1,1,1,1,1,1,1,1,1,1
+AVGO,Avago Technologies,1,1,1,0,0,0,0,0,0,0
+AVP,Avon Products,0,0,1,1,1,1,1,1,1,1
+AVY,Avery Dennison Corp,1,1,1,1,1,1,1,1,1,1
+AXP,American Express Co,1,1,1,1,1,1,1,1,1,1
+AYE,Allegheny Energy Inc.,0,0,0,0,0,0,1,1,1,1
+AZO,AutoZone Inc,1,1,1,1,1,1,1,1,1,1
+BA,Boeing Co.,1,1,1,1,1,1,1,1,1,1
+BAC,Bank of America Corp.,1,1,1,1,1,1,1,1,1,1
+BAX,Baxter International Inc.,1,1,1,1,1,1,1,1,1,1
+BBBY,Bed Bath & Beyond,1,1,1,1,1,1,1,1,1,1
+BBT,BB&T Corp.,1,1,1,1,1,1,1,1,1,1
+BBY,Best Buy Co. Inc.,1,1,1,1,1,1,1,1,1,1
+BC,Brunswick Corp.,0,0,0,0,0,0,0,0,0,1
+BCR,"C. R. Bard, Inc",1,1,1,1,1,1,1,1,1,1
+BDK,Black & Decker,0,0,0,0,0,0,0,1,1,1
+BDX,Becton Dickinson,1,1,1,1,1,1,1,1,1,1
+BEAM,Beam Inc.,0,0,0,1,1,1,1,1,1,1
+BEN,Franklin Resources,1,1,1,1,1,1,1,1,1,1
+BF.B,Brown-Forman Corp.,1,1,1,1,1,1,1,1,1,1
+BHI,Baker Hughes Inc,1,1,1,1,1,1,1,1,1,1
+BIG,Big Lots Inc.,0,0,0,0,1,1,1,1,1,1
+BIIB,"Biogen Idec, Inc.",1,1,1,1,1,1,1,1,1,1
+BJS,BJ Services Co.,0,0,0,0,0,0,0,1,1,1
+BK,BNY Mellon,1,1,1,1,1,1,1,1,1,1
+BLK,BlackRock,1,1,1,1,1,1,0,0,0,0
+BLL,Ball Corp,1,1,1,1,1,1,1,1,1,1
+BMC,BMC Software,0,0,0,0,1,1,1,1,1,1
+BMS,Bemis,0,0,0,1,1,1,1,1,1,1
+BMY,Bristol-Myers Squibb,1,1,1,1,1,1,1,1,1,1
+BNI,Burlington Northern,0,0,0,0,0,0,0,1,1,1
+BRCM,Broadcom Corp.,1,1,1,1,1,1,1,1,1,1
+BRK.B,Berkshire Hathaway,1,1,1,1,1,1,1,0,0,0
+BRL,Barr Pharmaceuticals Inc.,0,0,0,0,0,0,0,0,0,1
+BSC,Bear Stearns Inc.,0,0,0,0,0,0,0,0,0,1
+BSX,Boston Scientific,1,1,1,1,1,1,1,1,1,1
+BTU,Peabody Energy,0,0,0,1,1,1,1,1,1,1
+BUD,Anheuser-Busch Inc.,0,0,0,0,0,0,0,0,0,1
+BWA,BorgWarner Inc,1,1,1,1,1,1,0,0,0,0
+BXLT,Baxalta,1,1,0,0,0,0,0,0,0,0
+BXP,Boston Properties,1,1,1,1,1,1,1,1,1,1
+C,Citigroup Inc.,1,1,1,1,1,1,1,1,1,1
+CA,"CA, Inc.",1,1,1,1,1,1,1,1,1,1
+CAG,ConAgra Foods Inc.,1,1,1,1,1,1,1,1,1,1
+CAH,Cardinal Health Inc.,1,1,1,1,1,1,1,1,1,1
+CAM,Cameron Int'l Corp.,1,1,1,1,1,1,1,1,1,0
+CAT,Caterpillar Inc.,1,1,1,1,1,1,1,1,1,1
+CB,Chubb Corp.,1,1,1,1,1,1,1,1,1,1
+CBE,Cooper Industries,0,0,0,0,0,1,0,0,1,1
+CBG,CBRE Group,1,1,1,1,1,1,1,1,1,1
+CBH,Commerce Bancorp,0,0,0,0,0,0,0,0,0,1
+CBS,CBS Corp.,1,1,1,1,1,1,1,1,1,1
+CC,Circuit City Stores Inc.,0,0,0,0,0,0,0,0,0,1
+CCE,Coca-Cola Enterprises,1,1,1,1,1,1,1,1,1,1
+CCI,Crown Castle Int'l Corp.,1,1,1,1,1,0,0,0,0,0
+CCL,Carnival Corp.,1,1,1,1,1,1,1,1,1,1
+CEG,Constellation Energy Group,0,0,0,0,0,1,1,1,1,1
+CELG,Celgene Corp.,1,1,1,1,1,1,1,1,1,1
+CEPH,Cephalon Inc.,0,0,0,0,0,0,1,1,1,0
+CERN,Cerner,1,1,1,1,1,1,1,0,0,0
+CF,CF Industries Holdings Inc.,1,1,1,1,1,1,1,1,1,0
+CFC,Countrywide Financial Corp.,0,0,0,0,0,0,0,0,0,1
+CFN,Carefusion,0,0,1,1,1,1,1,1,0,0
+CHD,Church & Dwight Co,1,1,0,0,0,0,0,0,0,0
+CHK,Chesapeake Energy,1,1,1,1,1,1,1,1,1,1
+CHRW,C. H. Robinson Worldwide,1,1,1,1,1,1,1,1,1,1
+CI,Cigna Corp.,1,1,1,1,1,1,1,1,1,1
+CIEN,Ciena Corp.,0,0,0,0,0,0,0,0,1,1
+CINF,Cincinnati Financial,1,1,1,1,1,1,1,1,1,1
+CIT,CIT Group Inc.,0,0,0,0,0,0,0,0,1,1
+CL,Colgate-Palmolive,1,1,1,1,1,1,1,1,1,1
+CLF,Cliffs Natural Resources,0,0,0,1,1,1,1,1,0,0
+CLX,The Clorox Company,1,1,1,1,1,1,1,1,1,1
+CMA,Comerica Inc.,1,1,1,1,1,1,1,1,1,1
+CMCSA,Comcast Class A Comm.,1,1,1,1,1,1,1,1,1,1
+CME,CME Group Inc.,1,1,1,1,1,1,1,1,1,1
+CMG,Chipotle Mexican Grill,1,1,1,1,1,1,0,0,0,0
+CMI,Cummins Inc.,1,1,1,1,1,1,1,1,1,1
+CMS,CMS Energy,1,1,1,1,1,1,1,1,1,1
+CNP,CenterPoint Energy,1,1,1,1,1,1,1,1,1,1
+CNX,Consol Energy Inc.,1,1,1,1,1,1,1,1,1,1
+COF,Capital One Financial,1,1,1,1,1,1,1,1,1,1
+COG,Cabot Oil & Gas,1,1,1,1,1,1,1,1,1,0
+COH,Coach Inc.,1,1,1,1,1,1,1,1,1,1
+COL,Rockwell Collins,1,1,1,1,1,1,1,1,1,1
+COP,ConocoPhillips,1,1,1,1,1,1,1,1,1,1
+COST,Costco Co.,1,1,1,1,1,1,1,1,1,1
+COV,Covidien,0,0,1,1,1,1,0,0,1,1
+CPB,Campbell Soup,1,1,1,1,1,1,1,1,1,1
+CPGX,Columbia Pipeline Group Inc.,1,1,0,0,0,0,0,0,0,0
+CPWR,Compuware,0,0,0,0,0,0,1,1,1,1
+CRM,Salesforce.com,1,1,1,1,1,1,1,1,1,0
+CSC,Computer Sciences Corp.,0,0,1,1,1,1,1,1,1,1
+CSCO,Cisco Systems,1,1,1,1,1,1,1,1,1,1
+CSRA,CSRA Inc,1,1,0,0,0,0,0,0,0,0
+CSX,CSX Corp.,1,1,1,1,1,1,1,1,1,1
+CTAS,Cintas Corp.,1,1,1,1,1,1,1,1,1,1
+CTL,CenturyLink Inc.,1,1,1,1,1,1,1,1,1,1
+CTSH,Cognizant Technology Sol.,1,1,1,1,1,1,1,1,1,1
+CTX,Centex Corp.,0,0,0,0,0,0,0,0,1,1
+CTXS,Citrix Systems,1,1,1,1,1,1,1,1,1,1
+CVC,Cablevision Systems Corp.,1,1,1,1,1,1,1,0,0,0
+CVG,Convergys Corp.,0,0,0,0,0,0,0,0,1,1
+CVH,Coventry Health Care,0,0,0,0,1,1,1,1,1,1
+CVS,CVS Health Corp.,1,1,1,1,1,1,1,1,1,1
+CVX,Chevron Corp.,1,1,1,1,1,1,1,1,1,1
+CZR,Ceasar's Entertainment Corp,0,0,0,0,0,0,0,0,0,1
+D,Dominion Resources,1,1,1,1,1,1,1,1,1,1
+DAL,Delta Air Lines,1,1,1,1,0,0,0,0,0,0
+DD,DuPont,1,1,1,1,1,1,1,1,1,1
+DDR,DDR Corp.,0,0,0,0,0,0,0,0,1,1
+DDS,Dillard's Inc.,0,0,0,0,0,0,0,0,0,1
+DE,Deere & Co.,1,1,1,1,1,1,1,1,1,1
+DELL,"Dell, Inc.",0,0,0,0,1,1,1,1,1,1
+DF,Dean Foods,0,0,0,0,1,1,1,1,1,1
+DFS,Discover Financial Services,1,1,1,1,1,1,1,1,1,1
+DG,Dollar General,1,1,1,1,1,0,0,0,0,0
+DGX,Quest Diagnostics,1,1,1,1,1,1,1,1,1,1
+DHI,D. R. Horton,1,1,1,1,1,1,1,1,1,1
+DHR,Danaher Corp.,1,1,1,1,1,1,1,1,1,1
+DIS,The Walt Disney Co.,1,1,1,1,1,1,1,1,1,1
+DISCA,Discovery Com Class A,1,1,1,1,1,1,1,0,0,0
+DISCK,Discovery Com Class C,1,1,1,0,0,0,0,0,0,0
+DLPH,Delphi Automotive,1,1,1,1,1,0,0,0,0,0
+DLTR,Dollar Tree,1,1,1,1,1,1,0,0,0,0
+DNB,Dun & Bradstreet,1,1,1,1,1,1,1,1,1,0
+DNR,Denbury Resources Inc.,0,0,1,1,1,1,1,1,0,0
+DO,Diamond Offshore Drilling,1,1,1,1,1,1,1,1,0,0
+DOV,Dover Corp.,1,1,1,1,1,1,1,1,1,1
+DOW,Dow Chemical,1,1,1,1,1,1,1,1,1,1
+DPS,Dr Pepper Snapple Group,1,1,1,1,1,1,1,1,1,0
+DRI,Darden Restaurants,1,1,1,1,1,1,1,1,1,1
+DTE,DTE Energy Co.,1,1,1,1,1,1,1,1,1,1
+DTV,DirecTV,0,0,1,1,1,1,1,1,1,1
+DUK,Duke Energy,1,1,1,1,1,1,1,1,1,1
+DV,"DeVry, Inc.",0,0,0,0,0,1,1,1,0,0
+DVA,DaVita Inc.,1,1,1,1,1,1,1,1,1,0
+DVN,Devon Energy Corp.,1,1,1,1,1,1,1,1,1,1
+DYN,Dynegy Inc.,0,0,0,0,0,0,0,0,1,1
+EA,Electronic Arts,1,1,1,1,1,1,1,1,1,1
+EBAY,eBay Inc.,1,1,1,1,1,1,1,1,1,1
+ECL,Ecolab Inc.,1,1,1,1,1,1,1,1,1,1
+ED,Consolidated Edison,1,1,1,1,1,1,1,1,1,1
+EDS,Electronics Data Systems,0,0,0,0,0,0,0,0,0,1
+EFX,Equifax Inc.,1,1,1,1,1,1,1,1,1,1
+EIX,Edison Int'l,1,1,1,1,1,1,1,1,1,1
+EK,Eastman Kodak Co.,0,0,0,0,0,0,0,1,1,1
+EL,Estee Lauder Cos.,1,1,1,1,1,1,1,1,1,1
+EMC,EMC Corp.,1,1,1,1,1,1,1,1,1,1
+EMN,Eastman Chemical,1,1,1,1,1,1,1,1,1,1
+EMR,Emerson Electric Co,1,1,1,1,1,1,1,1,1,1
+ENDP,Endo International plc,1,1,0,0,0,0,0,0,0,0
+EOG,EOG Resources,1,1,1,1,1,1,1,1,1,1
+EP,El Paso Corp.,0,0,0,0,0,1,1,1,1,1
+EQ,Embarq Corp.,0,0,0,0,0,0,0,0,1,1
+EQIX,Equinix Inc,1,1,0,0,0,0,0,0,0,0
+EQR,Equity Residential,1,1,1,1,1,1,1,1,1,1
+EQT,EQT Corporation,1,1,1,1,1,1,1,1,1,0
+ES,Eversource Energy,1,1,1,1,1,1,1,1,0,0
+ESRX,Express Scripts,1,1,1,1,1,1,1,1,1,1
+ESS,Essex Property Trust Inc,1,1,1,0,0,0,0,0,0,0
+ESV,Ensco plc,1,1,1,1,1,0,0,0,1,1
+ETFC,E*Trade Financial Corp.,1,1,1,1,1,1,1,1,1,1
+ETN,Eaton Corporation,1,1,1,1,1,1,1,1,1,1
+ETR,Entergy Corp.,1,1,1,1,1,1,1,1,1,1
+EW,Edwards Lifesciences,1,1,1,1,1,1,0,0,0,0
+EXC,Exelon Corp.,1,1,1,1,1,1,1,1,1,1
+EXPD,Expeditors Int'l,1,1,1,1,1,1,1,1,1,1
+EXPE,Expedia Inc.,1,1,1,1,1,1,1,1,1,1
+F,Ford Motor,1,1,1,1,1,1,1,1,1,1
+FAST,Fastenal Co.,1,1,1,1,1,1,1,1,1,0
+FB,"Facebook, Inc.",1,1,1,1,0,0,0,0,0,0
+FCX,Freeport-McMoRan Inc.,1,1,1,1,1,1,1,1,1,1
+FDO,Family Dollar Stores,0,0,1,1,1,1,1,1,1,1
+FDX,FedEx Corporation,1,1,1,1,1,1,1,1,1,1
+FE,FirstEnergy Corp,1,1,1,1,1,1,1,1,1,1
+FFIV,F5 Networks,1,1,1,1,1,1,1,0,0,0
+FHN,First Horizon,0,0,0,0,1,1,1,1,1,1
+FII,Federated Investors,0,0,0,0,0,1,1,1,1,1
+FIS,Fidelity Nat. Info. Services,1,1,1,1,1,1,1,1,1,1
+FISV,Fiserv Inc,1,1,1,1,1,1,1,1,1,1
+FITB,Fifth Third Bancorp,1,1,1,1,1,1,1,1,1,1
+FLIR,FLIR Systems,1,1,1,1,1,1,1,1,1,0
+FLR,Fluor Corp.,1,1,1,1,1,1,1,1,1,1
+FLS,Flowserve Corporation,1,1,1,1,1,1,1,1,1,0
+FMC,FMC Corporation,1,1,1,1,1,1,1,1,0,0
+FNM,Fannie Mae (FNMA),0,0,0,0,0,0,0,0,0,1
+FOSL,"Fossil, Inc.",1,1,1,1,1,0,0,0,0,0
+FOX,Twenty-First Century Fox Inc Class B,1,1,0,0,0,0,0,0,0,0
+FOXA,Twenty-First Century Fox,1,1,1,1,1,1,1,1,1,1
+FRE,Freddie Mac (FHLMC),0,0,0,0,0,0,0,0,0,1
+FRX,Forest Laboratories,0,0,0,1,1,1,1,1,1,1
+FSLR,First Solar Inc,1,1,1,1,1,1,1,1,0,0
+FTI,FMC Technologies Inc.,1,1,1,1,1,1,1,1,0,0
+FTR,Frontier Communications,1,1,1,1,1,1,1,1,1,1
+GAS,AGL Resources Inc.,1,1,1,1,1,1,1,1,1,1
+GCI,Gannett Co.,1,1,1,1,1,1,1,1,1,1
+GD,General Dynamics,1,1,1,1,1,1,1,1,1,1
+GE,General Electric,1,1,1,1,1,1,1,1,1,1
+GENZ,Genzyme Corp.,0,0,0,0,0,0,1,1,1,1
+GGP,General Growth Properties,1,1,1,1,0,0,0,0,0,1
+GHC,Graham Holdings,0,0,0,1,1,1,1,1,1,1
+GILD,Gilead Sciences,1,1,1,1,1,1,1,1,1,1
+GIS,General Mills Inc.,1,1,1,1,1,1,1,1,1,1
+GLW,Corning Inc.,1,1,1,1,1,1,1,1,1,1
+GM,General Motors,1,1,1,1,0,0,0,0,1,1
+GMCR,Keurig Green Mountain,1,1,1,0,0,0,0,0,0,0
+GME,GameStop Corp.,1,1,1,1,1,1,1,1,1,1
+GNW,Genworth Financial Inc.,0,0,1,1,1,1,1,1,1,1
+GOOG,Alphabet Inc. Class C,1,1,1,0,0,0,0,0,0,0
+GOOGL,Alphabet Inc. Class A,1,1,1,1,1,1,1,1,1,1
+GPC,Genuine Parts,1,1,1,1,1,1,1,1,1,1
+GPS,Gap Inc.,1,1,1,1,1,1,1,1,1,1
+GR,Goodrich Corp.,0,0,0,0,0,1,1,1,1,1
+GRMN,Garmin Ltd.,1,1,1,1,1,0,0,0,0,0
+GS,Goldman Sachs Group,1,1,1,1,1,1,1,1,1,1
+GT,Goodyear Tire & Rubber,1,1,1,1,1,1,1,1,1,1
+GWW,"W. W. Grainger, Inc.",1,1,1,1,1,1,1,1,1,1
+HAL,Halliburton Co.,1,1,1,1,1,1,1,1,1,1
+HAR,Harman Int'l Industries,1,1,1,1,1,1,1,1,1,1
+HAS,Hasbro Inc.,1,1,1,1,1,1,1,1,1,1
+HBAN,Huntington Bancshares,1,1,1,1,1,1,1,1,1,1
+HBI,Hanesbrands Inc,1,1,0,0,0,0,0,0,0,0
+HCA,HCA Inc.,1,1,0,0,0,0,0,0,0,0
+HCBK,Hudson City Bancorp,0,0,1,1,1,1,1,1,1,1
+HCN,Welltower Inc,1,1,1,1,1,1,1,1,0,0
+HCP,HCP Inc.,1,1,1,1,1,1,1,1,1,0
+HD,Home Depot,1,1,1,1,1,1,1,1,1,1
+HES,Hess Corporation,1,1,1,1,1,1,1,1,1,1
+HIG,Hartford Financial Services,1,1,1,1,1,1,1,1,1,1
+HNZ,H. J. Heinz Company,0,0,0,0,1,1,1,1,1,1
+HOG,Harley-Davidson,1,1,1,1,1,1,1,1,1,1
+HON,Honeywell Int'l Inc.,1,1,1,1,1,1,1,1,1,1
+HOT,Starwood Hotels & Res,1,1,1,1,1,1,1,1,1,1
+HP,Helmerich & Payne,1,1,1,1,1,1,1,0,0,0
+HPC,Hercules Inc.,0,0,0,0,0,0,0,0,0,1
+HPE,Hewlett Packard Enterprise Co,1,1,0,0,0,0,0,0,0,0
+HPQ,Hewlett-Packard Co,1,1,1,1,1,1,1,1,1,1
+HRB,"H&R Block, Inc.",1,1,1,1,1,1,1,1,1,1
+HRL,Hormel Foods Corp.,1,1,1,1,1,1,1,1,0,0
+HRS,Harris Corp.,1,1,1,1,1,1,1,1,1,0
+HSH,Hillshire Brands Co,0,0,0,0,0,1,1,1,1,1
+HSIC,Henry Schein Inc,1,1,0,0,0,0,0,0,0,0
+HSP,Hospira Inc.,0,0,1,1,1,1,1,1,1,1
+HST,Host Hotels & Resorts,1,1,1,1,1,1,1,1,1,1
+HSY,The Hershey Company,1,1,1,1,1,1,1,1,1,1
+HUM,Humana Inc.,1,1,1,1,1,1,1,1,1,1
+IACI,IAC/InterActiveCorp,0,0,0,0,0,0,0,0,0,1
+IBM,IBM Corp.,1,1,1,1,1,1,1,1,1,1
+ICE,Intercontinental Exchange,1,1,1,1,1,1,1,1,1,1
+IFF,Intl Flavors & Fragrances,1,1,1,1,1,1,1,1,1,1
+IGT,International Game Tech.,0,0,0,1,1,1,1,1,1,1
+IHRT,iHeartMedia Inc,0,0,0,0,0,0,0,0,0,1
+ILMN,Illumina Inc,1,1,0,0,0,0,0,0,0,0
+IMS,IMS Health Inc.,0,0,0,0,0,0,0,1,1,1
+INTC,Intel Corp.,1,1,1,1,1,1,1,1,1,1
+INTU,Intuit Inc.,1,1,1,1,1,1,1,1,1,1
+IP,International Paper Co.,1,1,1,1,1,1,1,1,1,1
+IPG,Interpublic Group,1,1,1,1,1,1,1,1,1,1
+IR,Ingersoll-Rand PLC,1,1,1,1,1,1,1,0,1,1
+IRM,Iron Mountain Inc.,1,1,1,1,1,1,1,1,0,0
+ISRG,Intuitive Surgical Inc.,1,1,1,1,1,1,1,1,1,0
+ITT,ITT Corp.,0,0,0,0,0,0,1,1,1,1
+ITW,Illinois Tool Works,1,1,1,1,1,1,1,1,1,1
+IVZ,Invesco Ltd.,1,1,1,1,1,1,1,1,1,0
+JAVA,Sun Microsystems Inc,0,0,0,0,0,0,0,1,1,1
+JBHT,J. B. Hunt Transport Services Inc.,1,1,0,0,0,0,0,0,0,0
+JBL,Jabil Circuit,0,0,0,1,1,1,1,1,1,1
+JCI,Johnson Controls,1,1,1,1,1,1,1,1,1,1
+JCP,J.C. Penney,0,0,0,0,1,1,1,1,1,1
+JEC,Jacobs Engineering Group,1,1,1,1,1,1,1,1,1,1
+JNJ,Johnson & Johnson,1,1,1,1,1,1,1,1,1,1
+JNPR,Juniper Networks,1,1,1,1,1,1,1,1,1,1
+JNS,Janus Capital Group,0,0,0,0,0,0,1,1,1,1
+JNY,Jones Apparel Group Inc.,0,0,0,0,0,0,0,0,1,1
+JOY,Joy Global Inc.,0,0,1,1,1,1,0,0,0,0
+JPM,JPMorgan Chase & Co.,1,1,1,1,1,1,1,1,1,1
+JWN,Nordstrom,1,1,1,1,1,1,1,1,1,1
+K,Kellogg Co.,1,1,1,1,1,1,1,1,1,1
+KATE,Kate Spade & Co,0,0,0,0,0,0,0,0,0,1
+KBH,KB Home,0,0,0,0,0,0,0,0,1,1
+KEY,KeyCorp,1,1,1,1,1,1,1,1,1,1
+KG,King Pharmaceuticals Inc.,0,0,0,0,0,0,0,1,1,1
+KHC,Kraft Heinz Co,1,1,1,1,1,0,0,0,0,0
+KIM,Kimco Realty,1,1,1,1,1,1,1,1,1,1
+KLAC,KLA-Tencor Corp.,1,1,1,1,1,1,1,1,1,1
+KMB,Kimberly-Clark,1,1,1,1,1,1,1,1,1,1
+KMI,Kinder Morgan,1,1,1,1,1,0,0,0,0,0
+KMX,Carmax Inc.,1,1,1,1,1,1,1,0,0,0
+KO,The Coca Cola Co.,1,1,1,1,1,1,1,1,1,1
+KORS,Michael Kors Holdings,1,1,1,1,0,0,0,0,0,0
+KR,Kroger Co.,1,1,1,1,1,1,1,1,1,1
+KSS,Kohl's Corp.,1,1,1,1,1,1,1,1,1,1
+KSU,Kansas City Southern,1,1,1,1,0,0,0,0,0,0
+L,Loews Corp.,1,1,1,1,1,1,1,1,1,1
+LB,L Brands Inc.,1,1,1,1,1,1,1,1,1,1
+LDOS,Leidos Holdings Inc,0,0,0,0,1,1,1,1,0,0
+LEG,Leggett & Platt,1,1,1,1,1,1,1,1,1,1
+LEH,Lehman Brothers Holdings,0,0,0,0,0,0,0,0,0,1
+LEN,Lennar Corp.,1,1,1,1,1,1,1,1,1,1
+LH,LabCorp,1,1,1,1,1,1,1,1,1,1
+LIFE,Life Technologies,0,0,0,1,1,1,1,1,1,0
+LLL,L-3 Comm's Holdings,1,1,1,1,1,1,1,1,1,1
+LLTC,Linear Technology Corp.,1,1,1,1,1,1,1,1,1,1
+LLY,Eli Lilly and Co.,1,1,1,1,1,1,1,1,1,1
+LM,Legg Mason,1,1,1,1,1,1,1,1,1,1
+LMT,Lockheed Martin Corp.,1,1,1,1,1,1,1,1,1,1
+LNC,Lincoln National,1,1,1,1,1,1,1,1,1,1
+LO,Lorillard Inc.,0,0,1,1,1,1,1,1,1,0
+LOW,Lowe's Cos.,1,1,1,1,1,1,1,1,1,1
+LRCX,Lam Research,1,1,1,1,1,0,0,0,0,0
+LSI,LSI Corporation,0,0,0,1,1,1,1,1,1,1
+LUK,Leucadia National Corp.,1,1,1,1,1,1,1,1,1,1
+LUV,Southwest Airlines,1,1,1,1,1,1,1,1,1,1
+LVLT,Level 3 Comm's,1,1,1,0,0,0,0,0,0,0
+LXK,Lexmark Int'l Inc,0,0,0,0,0,1,1,1,1,1
+LYB,LyondellBasell,1,1,1,1,1,0,0,0,0,0
+M,Macy's Inc.,1,1,1,1,1,1,1,1,1,1
+MA,Mastercard Inc.,1,1,1,1,1,1,1,1,1,0
+MAC,Macerich,1,1,1,1,0,0,0,0,0,0
+MAR,Marriott Int'l.,1,1,1,1,1,1,1,1,1,1
+MAS,Masco Corp.,1,1,1,1,1,1,1,1,1,1
+MAT,Mattel Inc.,1,1,1,1,1,1,1,1,1,1
+MBI,MBIA Inc,0,0,0,0,0,0,0,0,1,1
+MCD,McDonald's Corp.,1,1,1,1,1,1,1,1,1,1
+MCHP,Microchip Technology,1,1,1,1,1,1,1,1,1,1
+MCK,McKesson Corp.,1,1,1,1,1,1,1,1,1,1
+MCO,Moody's Corp,1,1,1,1,1,1,1,1,1,1
+MDLZ,Mondelez Int'l,1,1,1,1,1,1,1,1,1,1
+MDP,Meredith Corp.,0,0,0,0,0,0,1,1,1,1
+MDT,Medtronic Inc.,1,1,1,1,1,1,1,1,1,1
+MEE,Massey Energy Co.,0,0,0,0,0,0,1,1,1,0
+MER,Merrill Lynch,0,0,0,0,0,0,0,0,0,1
+MET,MetLife Inc.,1,1,1,1,1,1,1,1,1,1
+MFE,McAfee Inc.,0,0,0,0,0,0,1,1,1,0
+MHFI,McGraw Hill Financial,1,1,1,1,1,1,1,1,1,1
+MHK,Mohawk Industries,1,1,1,1,0,0,0,0,0,0
+MHS,Medco Health Solutions,0,0,0,0,0,1,1,1,1,1
+MI,Marshall & Iisley Corp.,0,0,0,0,0,0,1,1,1,1
+MIL,Millipore Inc.,0,0,0,0,0,0,0,1,1,1
+MJN,Mead Johnson,1,1,1,1,1,1,1,1,0,0
+MKC,McCormick & Co.,1,1,1,1,1,1,1,1,1,1
+MLM,Martin Marietta Materials,1,1,1,0,0,0,0,0,0,0
+MMC,Marsh & McLennan,1,1,1,1,1,1,1,1,1,1
+MMI,Motorola Mobility,0,0,0,0,0,1,0,0,0,0
+MMM,3M Company,1,1,1,1,1,1,1,1,1,1
+MNK,Mallinckrodt plc,1,1,1,0,0,0,0,0,0,0
+MNST,Monster Beverage,1,1,1,1,1,0,0,0,0,0
+MO,Altria Group Inc.,1,1,1,1,1,1,1,1,1,1
+MOLX,Molex Inc.,0,0,0,0,1,1,1,1,1,1
+MON,Monsanto Co.,1,1,1,1,1,1,1,1,1,1
+MOS,The Mosaic Co.,1,1,1,1,1,1,0,0,0,0
+MPC,Marathon Petroleum,1,1,1,1,1,1,0,0,0,0
+MRK,Merck & Co.,1,1,1,1,1,1,1,1,1,1
+MRO,Marathon Oil Corp.,1,1,1,1,1,1,1,1,1,1
+MS,Morgan Stanley,1,1,1,1,1,1,1,1,1,1
+MSFT,Microsoft Corp.,1,1,1,1,1,1,1,1,1,1
+MSI,Motorola Solutions Inc.,1,1,1,1,1,1,1,1,1,1
+MTB,M&T Bank Corp.,1,1,1,1,1,1,1,1,1,1
+MTG,MGIC Investment,0,0,0,0,0,0,0,0,0,1
+MTW,The Manitowoc Company,0,0,0,0,0,0,0,0,1,1
+MU,Micron Technology,1,1,1,1,1,1,1,1,1,1
+MUR,Murphy Oil,1,1,1,1,1,1,1,1,1,1
+MWV,MeadWestvaco Corp.,1,1,1,1,1,1,1,1,1,1
+MWW,Monster Worldwide Inc.,0,0,0,0,0,0,1,1,1,1
+MYL,Mylan Inc.,1,1,1,1,1,1,1,1,1,1
+NAVI,Navient,1,1,1,0,0,0,0,0,0,0
+NBL,Noble Energy Inc.,1,1,1,1,1,1,1,1,1,1
+NBR,Nabors Industries Ltd.,0,0,1,1,1,1,1,1,1,1
+NCC,National City Corp.,0,0,0,0,0,0,0,0,0,1
+NDAQ,NASDAQ OMX Group,1,1,1,1,1,1,1,1,1,0
+NE,Noble Corp.,0,0,1,1,1,1,0,0,1,1
+NEE,NextEra Energy,1,1,1,1,1,1,1,1,1,1
+NEM,Newmont Mining Corp.,1,1,1,1,1,1,1,1,1,1
+NFLX,Netflix Inc.,1,1,1,1,1,1,1,0,0,0
+NFX,Newfield Exploration Co.,1,1,1,1,1,1,1,0,0,0
+NI,NiSource Inc.,1,1,1,1,1,1,1,1,1,1
+NKE,"Nike, Inc.",1,1,1,1,1,1,1,1,1,1
+NLSN,Nielsen Holdings,1,1,1,1,0,0,0,0,0,0
+NOC,Northrop Grumman Corp.,1,1,1,1,1,1,1,1,1,1
+NOV,National Oilwell Varco Inc.,1,1,1,1,1,1,1,1,1,1
+NOVL,"Novell, Inc.",0,0,0,0,0,0,1,1,1,1
+NRG,NRG Energy,1,1,1,1,1,1,1,0,0,0
+NSC,Norfolk Southern Corp.,1,1,1,1,1,1,1,1,1,1
+NSM,National Semiconductor,0,0,0,0,0,0,1,1,1,1
+NTAP,NetApp,1,1,1,1,1,1,1,1,1,1
+NTRS,Northern Trust Corp.,1,1,1,1,1,1,1,1,1,1
+NUE,Nucor Corp.,1,1,1,1,1,1,1,1,1,1
+NVDA,Nvidia Corp.,1,1,1,1,1,1,1,1,1,1
+NWL,Newell Rubbermaid Co.,1,1,1,1,1,1,1,1,1,1
+NVLS,Novellus Systems,0,0,0,0,0,1,1,1,1,1
+NWS,News Corp Class B,1,1,0,0,0,0,0,0,0,0
+NWSA,News Corporation,1,1,1,1,0,0,0,0,0,0
+NYT,The New York Times Co.,0,0,0,0,0,0,0,1,1,1
+NYX,NYSE Euronext,0,0,0,0,1,1,1,1,1,1
+O,Realty Income Corporation,1,1,0,0,0,0,0,0,0,0
+ODP,Office Depot Inc.,0,0,0,0,0,0,0,1,1,1
+OI,Owens-Illinois Inc.,1,1,1,1,1,1,1,1,1,0
+OKE,"ONEOK, Inc.",1,1,1,1,1,1,1,0,0,0
+OMC,Omnicom Group,1,1,1,1,1,1,1,1,1,1
+OMX,OfficeMax Inc.,0,0,0,0,0,0,0,0,0,1
+ORCL,Oracle Corp.,1,1,1,1,1,1,1,1,1,1
+ORLY,O'Reilly Automotive,1,1,1,1,1,1,1,1,0,0
+OXY,Occidental Petroleum,1,1,1,1,1,1,1,1,1,1
+PAYX,Paychex Inc.,1,1,1,1,1,1,1,1,1,1
+PBCT,People's United Bank,1,1,1,1,1,1,1,1,1,0
+PBG,Pepsi Bottling Group Inc.,0,0,0,0,0,0,0,1,1,1
+PBI,Pitney-Bowes,1,1,1,1,1,1,1,1,1,1
+PCAR,PACCAR Inc.,1,1,1,1,1,1,1,1,1,1
+PCG,PG&E Corp.,1,1,1,1,1,1,1,1,1,1
+PCL,Plum Creek Timber Co.,1,1,1,1,1,1,1,1,1,1
+PCLN,Priceline.com Inc,1,1,1,1,1,1,1,1,0,0
+PCP,Precision Castparts,1,1,1,1,1,1,1,1,1,1
+PCS,MetroPCS,0,0,0,0,1,1,1,1,0,0
+PDCO,Patterson Companies,1,1,1,1,1,1,1,1,1,1
+PEG,Public Serv. Enterprise Inc.,1,1,1,1,1,1,1,1,1,1
+PEP,PepsiCo Inc.,1,1,1,1,1,1,1,1,1,1
+PETM,"PetSmart, Inc.",0,0,1,1,1,0,0,0,0,0
+PFE,Pfizer Inc.,1,1,1,1,1,1,1,1,1,1
+PFG,Principal Financial Group,1,1,1,1,1,1,1,1,1,1
+PG,Procter & Gamble,1,1,1,1,1,1,1,1,1,1
+PGN,Progress Energy Inc.,0,0,0,0,0,1,1,1,1,1
+PGR,Progressive Corp.,1,1,1,1,1,1,1,1,1,1
+PH,Parker-Hannifin,1,1,1,1,1,1,1,1,1,1
+PHM,PulteGroup Inc,1,1,1,1,1,1,1,1,1,1
+PKI,PerkinElmer,1,1,1,1,1,1,1,1,1,1
+PLD,Prologis,1,1,1,1,1,1,1,1,1,1
+PLL,Pall Corp.,0,0,1,1,1,1,1,1,1,1
+PM,Philip Morris Int'l,1,1,1,1,1,1,1,1,1,0
+PNC,PNC Financial SVCS Group Inc,1,1,1,1,1,1,1,1,1,1
+PNR,Pentair Ltd.,1,1,1,1,1,0,0,0,0,0
+PNW,Pinnacle West Capital,1,1,1,1,1,1,1,1,1,1
+POM,Pepco Holdings Inc.,1,1,1,1,1,1,1,1,1,1
+PPG,PPG Industries,1,1,1,1,1,1,1,1,1,1
+PPL,PPL Corp.,1,1,1,1,1,1,1,1,1,1
+PRGO,Perrigo,1,1,1,1,1,1,0,0,0,0
+PRU,Prudential Financial,1,1,1,1,1,1,1,1,1,1
+PSA,Public Storage,1,1,1,1,1,1,1,1,1,1
+PSX,Phillips 66,1,1,1,1,1,0,0,0,0,0
+PTV,Pactiv LLC,0,0,0,0,0,0,0,1,1,1
+PVH,PVH Corp.,1,1,1,1,0,0,0,0,0,0
+PWR,Quanta Services Inc.,1,1,1,1,1,1,1,1,0,0
+PX,Praxair Inc.,1,1,1,1,1,1,1,1,1,1
+PXD,Pioneer Natural Resources,1,1,1,1,1,1,1,1,1,0
+PYPL,PayPal Holdings Inc.,1,1,0,0,0,0,0,0,0,0
+Q,Qwest Communications,0,0,0,0,0,0,1,1,1,1
+QCOM,"Qualcomm, Inc.",1,1,1,1,1,1,1,1,1,1
+QEP,QEP Resources,0,0,1,1,1,1,1,0,0,0
+QLGC,QLogic Corp.,0,0,0,0,0,0,1,1,1,1
+QRVO,Qorvo,1,1,0,0,0,0,0,0,0,0
+R,Ryder System,1,1,1,1,1,1,1,1,1,1
+RAI,Reynolds American Inc.,1,1,1,1,1,1,1,1,1,1
+RCL,Royal Caribbean Cruises,1,1,1,0,0,0,0,0,0,0
+RDC,Rowan Companies plc,0,0,0,1,1,1,1,1,1,1
+REGN,Regeneron,1,1,1,1,0,0,0,0,0,0
+RF,Regions Financial Corp.,1,1,1,1,1,1,1,1,1,1
+RHI,Robert Half International,1,1,1,1,1,1,1,1,1,1
+RHT,Red Hat Inc.,1,1,1,1,1,1,1,1,0,0
+RIG,Transocean,1,1,1,1,0,0,0,0,0,1
+RL,Polo Ralph Lauren Corp.,1,1,1,1,1,1,1,1,1,1
+ROH,Rohm and Haas Co.,0,0,0,0,0,0,0,0,1,1
+ROK,Rockwell Automation Inc.,1,1,1,1,1,1,1,1,1,1
+ROP,Roper Industries,1,1,1,1,1,1,1,1,0,0
+ROST,Ross Stores,1,1,1,1,1,1,1,1,0,0
+RRC,Range Resources Corp.,1,1,1,1,1,1,1,1,1,1
+RRD,R.R. Donnelley,0,0,0,0,0,1,1,1,1,1
+RSG,Republic Services Inc.,1,1,1,1,1,1,1,1,1,0
+RSH,RadioShack Corp.,0,0,0,0,0,0,1,1,1,1
+RTN,Raytheon Co.,1,1,1,1,1,1,1,1,1,1
+S,Sprint Corp,0,0,0,0,1,1,1,1,1,1
+SAF,Safeco Corp.,0,0,0,0,0,0,0,0,0,1
+SBUX,Starbucks Corp.,1,1,1,1,1,1,1,1,1,1
+SCG,SCANA Corp.,1,1,1,1,1,1,1,1,1,0
+SCHW,Charles Schwab Corp.,1,1,1,1,1,1,1,1,1,1
+SE,Spectra Energy Corp.,1,1,1,1,1,1,1,1,1,1
+SEE,Sealed Air Corp.,1,1,1,1,1,1,1,1,1,1
+SGP,Schering-Plough Corp.,0,0,0,0,0,0,0,0,1,1
+SHLD,Sears Holding Corporation,0,0,0,0,0,1,1,1,1,1
+SHW,Sherwin-Williams Co.,1,1,1,1,1,1,1,1,1,1
+SIAL,Sigma-Aldrich Corp.,0,0,1,1,1,1,1,1,1,1
+SIG,Signet Jewelers Limited,1,1,0,0,0,0,0,0,0,0
+SII,Smith International Inc.,0,0,0,0,0,0,0,1,1,1
+SJM,J.M. Smucker Co.,1,1,1,1,1,1,1,1,1,0
+SLB,Schlumberger Ltd.,1,1,1,1,1,1,1,1,1,1
+SLG,SL Green Realty Corp,1,1,0,0,0,0,0,0,0,0
+SLM,SLM Corp.,0,0,0,1,1,1,1,1,1,1
+SNA,Snap-On Inc.,1,1,1,1,1,1,1,1,1,1
+SNDK,SanDisk Corporation,1,1,1,1,1,1,1,1,1,1
+SNI,Scripps Networks Int.,1,1,1,1,1,1,1,1,1,0
+SO,Southern Co.,1,1,1,1,1,1,1,1,1,1
+SOV,Sovereign Bancorp.,0,0,0,0,0,0,0,0,1,1
+SPG,Simon Property Group Inc.,1,1,1,1,1,1,1,1,1,1
+SPLS,Staples Inc.,1,1,1,1,1,1,1,1,1,1
+SRCL,Stericycle Inc.,1,1,1,1,1,1,1,1,1,0
+SRE,Sempra Energy,1,1,1,1,1,1,1,1,1,1
+SSP,E.W. Scripps Co.,0,0,0,0,0,0,0,0,0,1
+STI,SunTrust Banks,1,1,1,1,1,1,1,1,1,1
+STJ,"St. Jude Medical, Inc.",1,1,1,1,1,1,1,1,1,1
+STR,Questar Corp.,0,0,0,0,0,0,0,1,1,1
+STT,State Street Corp.,1,1,1,1,1,1,1,1,1,1
+STX,Seagate Technology,1,1,1,1,1,0,0,0,0,0
+STZ,Constellation Brands,1,1,1,1,1,1,1,1,1,1
+SUN,Sunoco Inc.,0,0,0,0,0,1,1,1,1,1
+SUNE,SunEdison Inc,0,0,0,0,0,0,1,1,1,1
+SWK,Stanley Black & Decker,1,1,1,1,1,1,1,1,1,1
+SWKS,Skyworks Solutions Inc.,1,1,0,0,0,0,0,0,0,0
+SWN,Southwestern Energy,1,1,1,1,1,1,1,1,1,0
+SVU,Supervalu Inc.,0,0,0,0,0,1,1,1,1,1
+SWY,Safeway Inc.,0,0,1,1,1,1,1,1,1,1
+SYF,Synchrony Financial,1,1,0,0,0,0,0,0,0,0
+SYK,Stryker Corp.,1,1,1,1,1,1,1,1,1,1
+SYMC,Symantec Corp.,1,1,1,1,1,1,1,1,1,1
+SYY,Sysco Corp.,1,1,1,1,1,1,1,1,1,1
+T,AT&T Inc.,1,1,1,1,1,1,1,1,1,1
+TAP,Molson Coors Brewing Co.,1,1,1,1,1,1,1,1,1,1
+TDC,Teradata Corp.,1,1,1,1,1,1,1,1,1,1
+TE,TECO Energy,1,1,1,1,1,1,1,1,1,1
+TEG,Integrys Energy Group Inc.,0,0,1,1,1,1,1,1,1,1
+TEL,TE Connectivity Ltd.,1,1,1,1,1,1,0,0,1,1
+TER,Teradyne,0,0,0,0,1,1,1,1,1,1
+TEX,Terex Corp.,0,0,0,0,0,0,0,0,0,1
+TGT,Target Corp.,1,1,1,1,1,1,1,1,1,1
+THC,Tenet Healthcare Corp.,1,1,1,1,1,1,1,1,1,1
+TIE,Titanium Metals,0,0,0,0,0,1,1,1,1,1
+TIF,Tiffany & Co.,1,1,1,1,1,1,1,1,1,1
+TJX,TJX Companies Inc.,1,1,1,1,1,1,1,1,1,1
+TLAB,Tellabs Inc.,0,0,0,0,0,0,1,1,1,1
+TMK,Torchmark Corp.,1,1,1,1,1,1,1,1,1,1
+TMO,Thermo Fisher Scientific,1,1,1,1,1,1,1,1,1,1
+TRIP,TripAdvisor,1,1,1,1,1,1,0,0,0,0
+TROW,T. Rowe Price Group,1,1,1,1,1,1,1,1,1,1
+TRV,The Travelers Companies,1,1,1,1,1,1,1,1,1,1
+TSCO,Tractor Supply Co.,1,1,1,0,0,0,0,0,0,0
+TSLA,Tesla Motors,1,1,1,1,1,1,1,1,0,0
+TSN,Tyson Foods,1,1,1,1,1,1,1,1,1,1
+TSO,Tesoro Petroleum Co.,1,1,1,1,1,1,1,1,1,1
+TSS,Total System Services,1,1,1,1,1,1,1,1,1,1
+TT,Trane Inc.,0,0,0,0,0,0,0,0,0,1
+TWC,Time Warner Cable Inc.,1,1,1,1,1,1,1,1,0,0
+TWX,Time Warner Inc.,1,1,1,1,1,1,1,1,1,1
+TXN,Texas Instruments,1,1,1,1,1,1,1,1,1,1
+TXT,Textron Inc.,1,1,1,1,1,1,1,1,1,1
+TYC,Tyco Int'l,1,1,1,1,1,1,1,0,1,1
+UA,Under Armour,1,1,1,0,0,0,0,0,0,0
+UAL,United Continental Holdings,1,1,0,0,0,0,0,0,0,0
+UHS,Universal Health Services,1,1,1,0,0,0,0,0,0,0
+UIS,Unisys Corp.,0,0,0,0,0,0,0,0,0,1
+UNH,United Health Group Inc.,1,1,1,1,1,1,1,1,1,1
+UNM,Unum Group,1,1,1,1,1,1,1,1,1,1
+UNP,Union Pacific,1,1,1,1,1,1,1,1,1,1
+UPS,United Parcel Service,1,1,1,1,1,1,1,1,1,1
+URBN,Urban Outfitters,1,1,1,1,1,1,1,0,0,0
+URI,"United Rentals, Inc.",1,1,1,0,0,0,0,0,0,0
+USB,U.S. Bancorp,1,1,1,1,1,1,1,1,1,1
+UST,UST Inc.,0,0,0,0,0,0,0,0,1,1
+UTX,United Technologies,1,1,1,1,1,1,1,1,1,1
+V,Visa Inc.,1,1,1,1,1,1,1,1,0,0
+WAMUQ,Washington Mutual Inc.,0,0,0,0,0,0,0,0,0,1
+VAR,Varian Medical Systems,1,1,1,1,1,1,1,1,1,1
+WAT,Waters Corp.,1,1,1,1,1,1,1,1,1,1
+WB,Wachovia Corp.,0,0,0,0,0,0,0,0,0,1
+WBA,Walgreens Boots Alliance,1,1,1,1,1,1,1,1,1,1
+WDC,Western Digital,1,1,1,1,1,1,1,1,0,0
+WEC,WEC Energy Group Inc,1,1,1,1,1,1,1,1,1,0
+WEN,Wendy's International Inc.,0,0,0,0,0,0,0,0,0,1
+VFC,V.F. Corp.,1,1,1,1,1,1,1,1,1,1
+WFC,Wells Fargo,1,1,1,1,1,1,1,1,1,1
+WFM,Whole Foods Market,1,1,1,1,1,1,1,1,1,1
+WFT,Weatherford Int'l Ltd.,0,0,0,0,0,0,0,0,1,1
+WHR,Whirlpool Corp.,1,1,1,1,1,1,1,1,1,1
+VIAB,Viacom Inc.,1,1,1,1,1,1,1,1,1,1
+VIAV,VIAVI Solutions Inc,0,0,0,0,1,1,1,1,1,1
+WIN,Windstream Comm's,0,0,1,1,1,1,1,1,1,1
+VLO,Valero Energy,1,1,1,1,1,1,1,1,1,1
+WM,Waste Management Inc.,1,1,1,1,1,1,1,1,1,1
+WMB,Williams Companies,1,1,1,1,1,1,1,1,1,1
+VMC,Vulcan Materials,1,1,1,1,1,1,1,1,1,1
+WMT,Wal-Mart Stores,1,1,1,1,1,1,1,1,1,1
+VNO,Vornado Realty Trust,1,1,1,1,1,1,1,1,1,1
+WPX,WPX Energy Inc,0,0,0,1,1,1,0,0,0,0
+VRSK,Verisk Analytics Inc,1,1,0,0,0,0,0,0,0,0
+VRSN,Verisign Inc.,1,1,1,1,1,1,1,1,1,1
+VRTX,Vertex Pharmaceuticals Inc.,1,1,1,1,0,0,0,0,0,0
+VTR,Ventas Inc.,1,1,1,1,1,1,1,1,0,0
+VZ,Verizon Communications,1,1,1,1,1,1,1,1,1,1
+WU,Western Union Co.,1,1,1,1,1,1,1,1,1,1
+WWY,Wrigley Co.,0,0,0,0,0,0,0,0,0,1
+WY,Weyerhaeuser Corp.,1,1,1,1,1,1,1,1,1,1
+WYE,Wyeth Corp.,0,0,0,0,0,0,0,0,1,1
+WYN,Wyndham Worldwide,1,1,1,1,1,1,1,1,1,1
+WYNN,Wynn Resorts Ltd.,1,1,1,1,1,1,1,1,1,0
+X,U.S. Steel Corp.,0,0,0,1,1,1,1,1,1,1
+XEC,Cimarex Energy,1,1,1,0,0,0,0,0,0,0
+XEL,Xcel Energy Inc.,1,1,1,1,1,1,1,1,1,1
+XL,XL Capital,1,1,1,1,1,1,1,1,1,1
+XLNX,Xilinx Inc.,1,1,1,1,1,1,1,1,1,1
+XOM,Exxon Mobil Corp.,1,1,1,1,1,1,1,1,1,1
+XRAY,Dentsply Int'l,1,1,1,1,1,1,1,1,1,0
+XRX,Xerox Corp.,1,1,1,1,1,1,1,1,1,1
+XTO,XTO Energy Inc.,0,0,0,0,0,0,0,1,1,1
+XYL,Xylem Inc.,1,1,1,1,1,1,0,0,0,0
+YHOO,Yahoo Inc.,1,1,1,1,1,1,1,1,1,1
+YUM,Yum! Brands Inc.,1,1,1,1,1,1,1,1,1,1
+ZBH,Zimmer Biomet Holdings,1,1,1,1,1,1,1,1,1,1
+ZION,Zions Bancorp,1,1,1,1,1,1,1,1,1,1
+ZTS,"Zoetis, Inc.",1,1,1,1,0,0,0,0,0,0

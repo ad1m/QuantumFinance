@@ -1,0 +1,1586 @@
+asset_id,symbol,issuername
+124686,EWD,iShares MSCI Sweden
+124891,EWZ,iShares MSCI Brazil Capped
+125037,IXN,iShares Global Tech
+125192,IXC,iShares Global Energy
+125272,DGT,SPDR Global Dow
+125286,AGG,iShares Core US Aggregate Bond
+125338,IYE,iShares US Energy
+125636,IVW,iShares S&P 500 Growth
+125695,FEU,SPDR Stoxx Europe 50
+126110,EZA,iShares MSCI South Africa
+126265,TUSA,First Trust Total US Market AlphaDEX
+126320,JKH,iShares Morningstar Mid-Cap Growth
+126431,IWO,iShares Russell 2000 Growth
+126443,EPP,iShares MSCI Pacific ex Japan
+126467,EWN,iShares MSCI Netherlands
+126556,ITOT,iShares Core S&P Total US Stock Market
+126600,IBB,iShares Nasdaq Biotechnology
+126854,EWT,iShares MSCI Taiwan
+126872,SLYV,SPDR S&P 600 Small Cap Value
+127157,XLI,Industrial Select Sector SPDR
+127340,IJR,iShares Core S&P Small-Cap
+127443,VNQ,Vanguard REIT Index
+127548,XLU,Utilities Select Sector SPDR
+127566,LQD,iShares iBoxx $ Inv Grade Corporate Bond
+127646,PWC,PowerShares Dynamic Market
+127649,IUSV,iShares Core US Value
+127741,IYZ,iShares US Telecommunications
+127818,IYJ,iShares US Industrials
+128358,IYW,iShares US Technology
+128678,IWF,iShares Russell 1000 Growth
+128731,SMH,Market Vectors Semiconductor
+128810,JKJ,iShares Morningstar Small-Cap
+128915,EWI,iShares MSCI Italy Capped
+128918,IYF,iShares US Financials
+128949,IJH,iShares Core S&P Mid-Cap
+129054,IGM,iShares North American Tech
+129186,IXJ,iShares Global Healthcare
+129372,VHT,Vanguard Health Care Index
+129814,IDU,iShares US Utilities
+130142,MTK,SPDR Morgan Stanley Technology
+130415,OEF,iShares S&P 100
+131044,IJT,iShares S&P Small-Cap 600 Growth
+131086,EWW,iShares MSCI Mexico Capped
+131215,XLP,Consumer Staples Select Sector SPDR
+131263,XLF,Financial Select Sector SPDR
+131408,EWU,iShares MSCI United Kingdom
+131434,EWK,iShares MSCI Belgium Capped
+131666,IEF,iShares 7-10 Year Treasury Bond
+131690,TIP,iShares TIPS Bond
+131700,VTV,Vanguard Value Index
+131923,RWR,SPDR Dow Jones REIT
+131999,IJK,iShares S&P Mid-Cap 400 Growth
+132297,IYT,iShares Transportation Average
+132330,VDE,Vanguard Energy Index
+132395,PPH,Market Vectors Pharmaceutical
+132396,IWP,iShares Russell Mid-Cap Growth
+132634,EZU,iShares MSCI Eurozone
+133217,ILF,iShares Latin America 40
+133626,ADRU,BLDRS Europe Select ADR Index
+133684,IWN,iShares Russell 2000 Value
+133783,EWS,iShares MSCI Singapore
+133900,SPYG,SPDR S&P 500 Growth
+134128,SHY,iShares 1-3 Year Treasury Bond
+134166,VBR,Vanguard Small-Cap Value Index
+134244,DIA,SPDR Dow Jones Industrial Average
+134431,TLT,iShares 20 Plus Year Treasury Bond
+135246,EWH,iShares MSCI Hong Kong
+135287,IWR,iShares Russell Mid-Cap
+135289,IOO,iShares Global 100
+135297,VPU,Vanguard Utilities Index
+135317,IVV,iShares Core S&P 500
+135433,IWD,iShares Russell 1000 Value
+135486,VV,Vanguard Large-Cap Index
+135573,FEZ,SPDR Euro Stoxx 50
+136109,IWM,iShares Russell 2000
+136128,IGE,iShares North American Natural Resources
+136168,IEV,iShares Europe
+136405,VTI,Vanguard Total Stock Market Index
+136504,IXP,iShares Global Telecom
+136697,JKF,iShares Morningstar Large-Cap Value
+136803,JKI,iShares Morningstar Mid Cap
+136861,XLY,Consumer Discretionary Select Sector SPDR
+136948,JKG,iShares Morningstar Mid-Cap
+137054,VUG,Vanguard Growth Index
+137544,EWQ,iShares MSCI France
+137660,IYK,iShares US Consumer Goods
+137683,THRK,SPDR Russell 3000
+137894,EWJ,iShares MSCI Japan
+138282,IVE,iShares S&P 500 Value
+139066,SOXX,iShares PHLX Semiconductor
+139255,IYG,iShares US Financial Services
+139336,XLV,Health Care Select Sector SPDR
+139527,VBK,Vanguard Small-Cap Growth Index
+139641,VO,Vanguard Mid-Cap Index
+139778,JKD,iShares Morningstar Large-Cap
+139874,VXF,Vanguard Extended Market Index
+139930,IXG,iShares Global Financials
+139931,IYC,iShares US Consumer Services
+140000,OIH,Market Vectors Oil Services
+140004,DWAQ,PowerShares DWA NASDAQ Momentum Portfolio
+140084,VOX,Vanguard Telecommunication Services Index
+140109,FVD,First Trust Value Line Dividend Index
+140216,FXI,iShares China Large-Cap
+140579,SLYG,SPDR S&P 600 Small Cap Growth
+140656,EEM,iShares MSCI Emerging Markets
+140679,ADRA,BLDRS Asia 50 ADR
+140688,IGV,iShares North American Tech-Software
+140714,SPYV,SPDR S&P 500 Value
+140729,XLK,Technology Select Sector SPDR
+140829,JKE,iShares Morningstar Large-Cap Growth
+140837,EWG,iShares MSCI Germany
+141099,VGT,Vanguard Information Technology Index
+141138,JKK,iShares Morningstar Small-Cap Growth
+141400,IWB,iShares Russell 1000
+141656,VIS,Vanguard Industrials Index
+141727,ADRE,BLDRS Emerging Markets 50 ADR
+141737,RTH,Market Vectors Retail
+142055,EWL,iShares MSCI Switzerland Capped
+142334,ADRD,BLDRS Developed Markets 100 ADR
+142629,XLE,Energy Select Sector SPDR
+142666,VFH,Vanguard Financials Index
+142760,EWC,iShares MSCI Canada
+142974,JKL,iShares Morningstar Small-Cap Value
+143189,EWP,iShares MSCI Spain Capped
+143423,IYR,iShares US Real Estate
+143457,EWY,iShares MSCI South Korea Capped
+143485,EWO,iShares MSCI Austria Capped
+143510,IYH,iShares US Healthcare
+143524,IWS,iShares Russell Mid-Cap Value
+143621,IYM,iShares US Basic Materials
+143644,JPXN,Shares JPX-Nikkei 400
+143977,EFA,iShares MSCI EAFE
+144020,FVL,First Trust Value Line 100 Exchange-Traded
+144360,IJJ,iShares S&P Mid-Cap 400 Value
+144492,IJS,iShares S&P Small-Cap 600 Value
+144763,DVY,iShares Select Dividend
+144818,BBH,Market Vectors Biotech
+144872,EWM,iShares MSCI Malaysia
+145284,ICF,iShares Cohen & Steers REIT
+145303,QQQ,PowerShares QQQ Trust Series 1
+145424,VDC,Vanguard Consumer Staples Index
+145909,VB,Vanguard Small-Cap Index
+145941,IUSG,iShares Core US Growth
+146051,VAW,Vanguard Materials Index
+146239,RSP,Guggenheim Invest S&P 500 Eql Wght
+146468,IWV,iShares Russell 3000
+147037,XLB,Materials Select Sector SPDR
+147173,EWA,iShares MSCI Australia
+147183,IYY,iShares Dow Jones US
+147418,SPY,SPDR S&P 500 Trust
+147681,ONEQ,Fidelity NASDAQ Composite
+147792,MDY,SPDR S&P MidCap 400
+147817,IGN,iShares North American Tech-Multimedia Networking
+147901,VCR,Vanguard Consumer Discretionary Index
+155510,GLD,SPDR Gold Shares
+155543,PEY,PowerShares High Yield Equity Dividend Achievers Portfolio
+155544,PGJ,PowerShares Golden Dragon China Port
+155657,IAU,iShares Gold
+155658,KLD,iShares MSCI USA ESG Select
+157042,PBW,PowerShares WilderHill Clean Energy
+157043,PWB,PowerShares Dynamic Large Cap Growth
+157044,PXMG,PowerShares Russell Midcap Pure Growth
+157045,PXMV,PowerShares Russell Midcap Pure Value
+157046,PXSG,PowerShares Russell 2000 Pure Growth
+157047,PWV,PowerShares Dynamic Large Cap Value
+157048,PXSV,PowerShares Russell 2000 Pure Value
+157693,VGK,Vanguard FTSE Europe
+157694,VPL,Vanguard FTSE Pacific
+157695,VWO,Vanguard FTSE Emerging Markets
+163278,XLG,Guggenheim S&P 500 Top 50
+167573,PBE,PowerShares Dynamic Biotechnology & Genome
+167574,PBJ,PowerShares Dynamic Food & Beverage
+167575,PBS,PowerShares Dynamic Media
+167576,PEJ,PowerShares Dynamic Leisure & Entertainment
+167577,PJP,PowerShares Dynamic Pharmaceuticals
+167578,PSI,PowerShares Dynamic Semiconductors
+167579,PSJ,PowerShares Dynamic Software
+167580,PXQ,PowerShares Dynamic Networking
+172236,IWC,iShares Micro-Cap
+172408,PZI,PowerShares Zacks Micro Cap
+175733,PFM,PowerShares Dividend Achievers
+175735,PID,PowerShares International Dividend Achievers Portfolio
+177707,FDM,First Trust Dow Jones Select MicroCap Index
+179786,PKB,PowerShares Dynamic Building & Construction
+179787,PMR,PowerShares Dynamic Retail
+179788,PPA,PowerShares Aerospace & Defense
+179789,PUI,PowerShares DWA Utilities Momentum Portfolio
+179790,PXE,PowerShares Dynamic Energy Exploration & Production Portfoli
+179791,PXJ,PowerShares Dynamic Oil & Gas Services
+181397,EFG,iShares MSCI EAFE Growth
+181398,EFV,iShares MSCI EAFE Value
+181818,SLY,SPDR S&P 600 Small Cap
+181819,ONEK,SPDR Russell 1000
+181820,MDYG,SPDR S&P 400 Mid Cap Growth
+181821,RSCO,SPDR Russell Small Cap Completeness
+181822,MDYV,SPDR S&P 400 Mid Cap Value
+181824,KBE,SPDR S&P Bank
+181825,KCE,SPDR S&P Capital Markets
+181827,KIE,SPDR S&P Insurance
+181835,SDY,SPDR S&P Dividend
+184792,PHO,PowerShares Water Resources
+184794,SPHQ,PowerShares S&P 500 High Quality
+185475,FXE,Guggenheim CurrencyShares Euro Trust
+186283,PRF,PowerShares FTSE RAFI US 1000 Portfolio
+190065,MUB,iShares National AMT-Free Muni Bond
+192147,DBC,PowerShares DB Commodity Index Tracking
+192155,XBI,SPDR S&P Biotech
+192156,XHB,SPDR S&P Homebuilders
+192157,XSD,SPDR S&P Semiconductor
+195817,RFG,Guggenheim Invest S&P MidCap 400 Pure Growth
+195818,RFV,Guggenheim Invest S&P MidCap 400 Pure Value
+195819,RPG,Guggenheim Invest S&P 500 Pure Growth
+195820,RZG,Guggenheim Invest S&P SmallCap 600 Pure Growth
+195821,RZV,Guggenheim Invest S&P SmallCap 600 Pure Value
+197026,FDL,First Tr Morningstar Dividend Leaders Index
+201047,USO,United States Oil
+201235,RPV,Guggenheim Invest S&P 500 Pure Value
+202689,SLV,iShares Silver
+202958,QQEW,First Trust NASDAQ-100 Equal Weighted Index
+202959,QTEC,First Trust NASDAQ-100 Tech Sector Index
+202961,VIG,Vanguard Dividend Appreciation Index
+203262,IAI,iShares US Broker Dealers and Securities Exchanges
+203263,IAK,iShares US Insurance
+203264,IAT,iShares US Regional Banks
+203266,IEO,iShares US Oil & Gas Exploration & Production
+203267,IEZ,iShares US Oil Equipment & Services
+203268,IHE,iShares US Pharmaceuticals
+203269,IHF,iShares US Healthcare Providers
+203270,IHI,iShares US Medical Devices
+203271,ITA,iShares US Aerospace & Defense
+203272,ITB,iShares US Home Construction
+204994,GDX,Market Vectors Gold Miners
+205284,FPX,First Trust US IPO Index
+205292,RYJ,Guggenheim Invest Raymond James SB-1 Equity
+208301,DES,WisdomTree SmallCap Dividend
+208302,DEW,WisdomTree Global High Dividend
+208303,DFE,WisdomTree Europe SmallCap Dividend
+208304,DFJ,WisdomTree Japan SmallCap Dividend
+208305,DHS,WisdomTree High Dividend
+208306,DIM,WisdomTree International MidCap Dividend
+208307,DLN,WisdomTree LargeCap Dividend
+208308,DLS,WisdomTree International SmallCap Dividend
+208309,AXJL,WisdomTree Asia-Pacific ex-Japan
+208310,AUSE,WisdomTree Australia Dividend
+208311,DNL,WisdomTree Global ex-US Quality Dividend Growth
+208312,DOL,WisdomTree Intenational LargeCap Dividend
+208313,DON,WisdomTree MidCap Dividend
+208314,DOO,Wisdom Tree International Dividend Ex-Financials
+208315,DTD,WisdomTree Total Dividend
+208316,DTH,WisdomTree International High Dividend
+208317,DTN,Wisdom Tree Dividend Ex-Financials
+208318,DWM,WisdomTree International Equity
+208319,DXJ,WisdomTree Japan Hedged Equity
+208557,DDM,ProShares Ultra Dow30
+208558,DOG,ProShares Short Dow30
+208559,MVV,ProShares Ultra MidCap400
+208560,MYY,ProShares Short MidCap400
+208561,PSQ,ProShares Short QQQ
+208562,SH,ProShares Short S&P500
+208563,SSO,ProShares Ultra S&P500
+208708,KRE,SPDR S&P Regional Banking
+208709,QLD,ProShares Ultra QQQ
+208714,XES,SPDR S&P Oil & Gas Equipment & Services
+208715,XME,SPDR S&P Metals & Mining
+208716,XOP,SPDR S&P Oil & Gas Exploration & Production
+208717,XPH,SPDR S&P Pharmaceuticals
+208718,XRT,SPDR S&P Retail
+208806,FBT,First Trust NYSE Arca Biotechnology Index
+208807,FDN,First Trust Dow Jones Internet Index
+208962,FXA,Guggenheim CurrencyShares Australian Dollar Trust
+208963,FXB,Guggenheim CurrencyShares British Pound Strlng Tr
+208964,FXC,Guggenheim CurrencyShares Canadian Dollar Trust
+208965,FXF,Guggenheim CurrencyShares Swiss Franc Trust
+208967,FXS,Guggenheim CurrencyShares Swedish Krona Trust
+211249,DXD,ProShares UltraShort Dow30
+211252,MZZ,ProShares UltraShort MidCap400
+211253,QID,ProShares UltraShort QQQ
+211254,SDS,ProShares UltraShort S&P500
+211712,GSG,iShares S&P GSCI Commodity-Indexed Trust
+215773,VOE,Vanguard Mid-Cap Value Index
+215774,VOT,Vanguard Mid-Cap Growth Index
+217143,FTCS,First Trust Capital Strength
+218319,DBV,PowerShares DB G10 Currency Harvest
+218327,PRFZ,PowerShares FTSE RAFI US 1500 Small Mid
+218633,CVY,Guggenheim Invest Multi-Asset Income
+218634,EEB,Guggenheim Invest BRIC
+218641,NFO,Guggenheim Invest Insider Sentiment
+218647,WMCR,Guggenheim Invest Wilshire Micro-Cap
+218784,JXI,iShares Global Utilities
+218785,KXI,iShares Global Consumer Staples
+218787,MXI,iShares Global Materials
+218789,RXI,iShares Global Consumer Discretionary
+219251,EXI,iShares Global Industrials
+221435,PEZ,PowerShares DWA Consumer Cyclicals Momentum Port
+221436,PFI,PowerShares DWA Financial Momentum Portfolio
+221439,PRN,PowerShares DWA Industrials Momentum Portfolio
+221440,PSL,PowerShares DWA Consumer Staples Momentum Port
+221441,PTF,PowerShares DWA Technology Momentum Portfolio
+221442,PTH,PowerShares DWA Healthcare Momentum Portfolio
+221444,PXI,PowerShares DWA Energy Momentum Portfolio
+221445,PYZ,PowerShares DWA Basic Materials Momentum Portfolio
+221466,CCXE,WisdomTree Commodity Country Equity
+221469,DBU,WisdomTree Global ex-US Utility
+221472,GNAT,WisdomTree Global Natural Resources
+221499,SLX,Market Vectors Steel
+223548,PSP,PowerShares Global Listed Private Equity
+223549,PUW,PowerShares WilderHill Progressive Energy Port
+223550,PZD,PowerShares Cleantech
+226294,RCD,Guggenheim Invest S&P 500 Eql Wght Con DiscrtN
+226295,RGI,Guggenheim Invest S&P 500 Eql Wght Industrials
+226296,RHS,Guggenheim Invest S&P 500 Eql Wght Con Staples
+226297,RTM,Guggenheim Invest S&P 500 Eql Wght Materials
+226298,RYE,Guggenheim Invest S&P 500 Eql Wght Energy
+226299,RYF,Guggenheim Invest S&P 500 Eql Wght Financials
+226300,RYH,Guggenheim Invest S&P 500 Eql Wght Health Care
+226301,RYT,Guggenheim Invest S&P 500 Eql Wght Technology
+226302,RYU,Guggenheim Invest S&P 500 Eql Wght Utilities
+227075,EVX,Market Vectors Environmental Services
+227160,JPP,SPDR Russell/Nomura Prime Japan
+227161,JSC,SPDR Russell/Nomura Small Cap Japan
+227199,VYM,Vanguard High Dividend Yield
+227209,DSI,iShares MSCI KLD 400 Social
+236589,CSD,Guggenheim Invest Spin-Off
+236591,DEF,Guggenheim Invest Defensive Equity
+237231,PKW,PowerShares Dynamic Buyback Achievers Portfolio
+238869,DBA,PowerShares DB Agriculture
+238870,DBB,PowerShares DB Base Metals
+238871,DBE,PowerShares DB Energy
+238872,DBO,PowerShares DB Oil
+238873,DBP,PowerShares DB Precious Metals
+238874,DBS,PowerShares DB Silver
+238875,DGL,PowerShares DB Gold
+239755,CRED,iShares Core US Credit Bond
+239756,CIU,iShares Intermediate Credit Bond
+239757,CSJ,iShares 1-3 Year Credit Bond
+239759,GBF,iShares Government/Credit Bond
+239761,GVI,iShares Intermediate Govt/Credit Bond
+239766,SHV,iShares Short Treasury Bond
+239768,TLH,iShares 10-20 Year Treasury Bond
+240379,CWI,SPDR MSCI ACWI ex-US
+241405,PGF,PowerShares Financial Preferred
+241946,EQWL,PowerShares Russell Top 200 Equal Weight
+241947,EQWM,PowerShares Russell Midcap Equal Weight
+241948,EQWS,PowerShares Russell 2000 Equal Weight
+242193,RWM,ProShares Short Russell2000
+242194,SAA,ProShares Ultra SmallCap600
+242195,SBB,ProShares Short SmallCap600
+242196,SDD,ProShares UltraShort SmallCap600
+242197,TWM,ProShares UltraShort Russell2000
+242198,UWM,ProShares Ultra Russell2000
+242820,GII,SPDR S&P Global Infrastructure
+242943,DIG,ProShares Ultra Oil & Gas
+242944,DUG,ProShares UltraShort Oil and Gas
+242948,ROM,ProShares Ultra Technology
+242949,RXD,ProShares UltraShort Health Care
+242950,RXL,ProShares Ultra Health Care
+242951,SIJ,ProShares UltraShort Industrials
+242952,SKF,ProShares UltraShort Financials
+242953,SRS,ProShares UltraShort Real Estate
+242954,SSG,ProShares UltraShort Semiconductors
+242955,SZK,ProShares UltraShort Consumer Goods
+242957,UGE,ProShares Ultra Consumer Goods
+242958,UPW,ProShares Ultra Utilities
+242959,USD,ProShares Ultra Semiconductors
+242960,UYG,ProShares Ultra Financials
+243082,REW,ProShares UltraShort Technology
+243083,SCC,ProShares UltraShort Consumer Services
+243084,SMN,ProShares UltraShort Basic Materials
+243087,UCC,ProShares Ultra Consumer Services
+243089,URE,ProShares Ultra Real Estate
+243090,UXI,ProShares Ultra Industrials
+244958,FXY,Guggenheim CurrencyShares Japanese Yen Trust
+245226,QCLN,First Trust NASDAQ Clean Edge Green Energy Index
+261948,EES,WisdomTree SmallCap Earnings
+261950,EPS,WisdomTree Earnings 500
+261951,EXT,WisdomTree Total Earnings
+261952,EZM,WisdomTree MidCap Earnings
+261953,EZY,WisdomTree LargeCap Value
+263117,PDP,PowerShares DWA Momentum Portfolio
+263120,UDN,PowerShares DB US Dollar Index Bearish
+263121,UUP,PowerShares DB US Dollar Index Bullish
+263247,RWX,SPDR Dow Jones International Real Estate
+264144,VEU,Vanguard FTSE All World ex US
+264661,SDP,ProShares UltraShort Utilities
+268128,IUNSF,iShares S&P/TSX Capped Energy
+268286,MBB,iShares MBS
+269313,GAF,SPDR S&P Emerging Middle East & Africa
+269314,GMF,SPDR S&P Emerging Asia Pacific
+269315,GML,SPDR S&P Emerging Latin America
+269316,GMM,SPDR S&P Emerging Markets
+269317,GUR,SPDR S&P Emerging Europe
+269318,GXC,SPDR S&P China
+271126,CZA,Guggenheim Invest Mid-Cap Core
+271632,EAUSF,ETFS Metal Securities Australia
+272000,BIV,Vanguard Intermediate Term Bond
+272002,BLV,Vanguard Long-Term Bond Index
+272003,BND,Vanguard Total Bond Market Index
+272004,BSV,Vanguard Short-Term Bond Index
+272279,HYG,iShares iBoxx $ High Yield Corporate Bond
+273451,PFF,iShares US Preferred Stock
+273460,UNG,United States Natural Gas
+273466,UYM,ProShares Ultra Basic Materials
+273915,IEI,iShares 3-7 Year Treasury Bond
+274586,GWL,SPDR S&P World ex US
+274587,GWX,SPDR S&P International Small Cap
+275924,FTY,iShares Real Estate 50
+275930,REM,iShares Mortgage Real Estate Capped
+275931,REZ,iShares Residential Real Estate Capped
+276237,QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index
+276239,RSX,Market Vectors Russia
+276747,GEX,Market Vectors Global Alternative Energy
+277025,FEX,First Trust Large Cap Core AlphaDEX
+277026,FNX,First Trust Mid Cap Core AlphaDEX
+277027,FRI,First Trust S&P REIT Index
+277028,FXD,First Trust Consumer Discretionary AlphaDEX
+277029,FXG,First Trust Consumer Staples AlphaDEX
+277030,FXH,First Trust Health Care AlphaDEX
+277031,FXL,First Trust Technology AlphaDEX
+277032,FXN,First Trust Energy AlphaDEX
+277033,FXO,First Trust Financial AlphaDEX
+277034,FXR,First Trust Industrials/Producer Drbls AlphaDEX Fd
+277035,FXU,First Trust Utilities AlphaDEX
+277036,FYX,First Trust Small Cap Core AlphaDEX
+277186,FAD,First Trust Multi Cap Growth AlphaDEX
+277187,FCG,First Trust ISE-Revere Natural Gas Index
+277188,FIW,First Trust ISE Water Index
+277189,FNI,First Trust ISE Chindia Index
+277190,FTC,First Trust Large Cap Growth AlphaDEX
+277191,FXZ,First Trust Materials AlphaDEX
+277346,CGW,Guggenheim Invest S&P Global Water
+279046,FAB,First Trust Multi Cap Value AlphaDEX
+279707,FTA,First Trust Large Cap Value AlphaDEX
+280324,BIL,SPDR Barclays 1-3 Month T-Bill
+280330,IPE,SPDR Barclays Tips
+280331,ITE,SPDR Barclays Intermediate Term Treas
+280333,BNDS,SPDR Barclays Aggregate Bond
+280337,TLO,SPDR Barclays Long Term Treasury
+281684,DRW,WisdomTree Global ex-US Real Estate
+282965,PBD,PowerShares Global Clean Energy
+282967,IDHQ,PowerShares S&P Internatnl Developed Hi Qual Port
+282968,PIO,PowerShares Global Water Portfolio
+284651,IDV,iShares International Select Dividend
+284994,BIK,SPDR S&P BRIC 40
+285129,LVL,Guggenheim Invest S&P Gl Dividend Opptys Idx
+285130,PAF,PowerShares FTSE RAFI Asia Pacific ex-Japan
+285133,PXF,PowerShares FTSE RAFI Developed Mkts ex-US
+287851,HGI,Guggenheim Invest International Mlti-Asset Inc
+288101,DEM,WisdomTree Emerging Markets High Dividend
+288234,ENY,Guggenheim Invest Canadian Energy Income
+291594,VEA,Vanguard FTSE Developed Markets
+292246,WPS,iShares International Developed Property
+293981,NLR,Market Vectors Uranium+Nuclear Energy
+297397,FDD,First Trust STOXX European Select Dividend Index
+297398,FFR,First Trust FTSE EPRA/NAREIT Gl Dev Mkt RE Index
+298452,MOO,Market Vectors Agribusiness
+299249,HZNSF,Horizons BetaPro S&P TSX Global Gold Bull Plus Units Class A
+299784,TFI,SPDR Nuveen Barclays Municipal Bond
+302439,PDN,PowerShares FTSE RAFI Developed Markets ex-US Small-Mid Port
+302443,PXH,PowerShares FTSE RAFI Emerging Markets
+304575,BWX,SPDR Barclays International Treasury Bond
+304576,CMF,iShares California AMT-Free Muni Bond
+304581,NYF,iShares New York AMT-Free Muni Bond
+304582,PCY,PowerShares Emerging Markets Sovereign Debt
+304583,PLW,PowerShares 1-30 Laddered Treasury Portfolio
+304584,PZT,PowerShares New York AMT-Free Municipal Bond Ptf
+305647,CXA,SPDR Nuveen Barclays California Municipal Bond
+305674,INY,SPDR Nuveen Barclays New York Municipal Bond
+305714,PWZ,PowerShares California AMT-Free Municipal Bond Ptf
+305715,PZA,PowerShares National AMT-Free Municipal Bond Ptf
+305730,SHM,SPDR Nuveen Barclays Short Term Mun Bond
+306273,CYMEF,iShares BRIC
+306893,EFU,ProShares UltraShort MSCI EAFE
+306894,EFZ,ProShares Short MSCI EAFE
+348517,DGS,WisdomTree Emerging Markets SmallCap Dividend
+349476,EEV,ProShares UltraShort MSCI Emerging Markets
+349477,EUM,ProShares Short MSCI Emerging Markets
+349480,HZRZF,Horizons BetaPro S& P TSX Global Gold Bear Plus Class A
+351232,EWV,ProShares UltraShort MSCI Japan
+351234,FXP,ProShares UltraShort FTSE China 50
+351471,CUT,Guggenheim Invest Timber
+352453,PHB,PowerShares Fundamental High Yield Corp Bd Port
+352454,PVI,PowerShares VRDO Tax-Free Weekly Portfolio
+354094,AIA,iShares Asia 50
+354095,BKF,iShares MSCI BRIC
+354097,ECH,iShares MSCI Chile Capped
+354855,FGD,First Trust Dow Jones Global Select Dividend Index
+357330,ITM,Market Vectors AMT-Free Intermediate Muni Idx
+357332,USL,United States 12 Month Oil
+358914,IGF,iShares Global Infrastructure
+358917,SCZ,iShares MSCI EAFE Small Cap
+358919,TOK,iShares MSCI Kokusai
+360051,TAO,Guggenheim Invest China Real Estate
+360294,EMB,iShares JPMorgan USD Emerging Markets Bond
+361148,IFEU,iShares Europe Developed Real Estate
+361149,IFGL,iShares International Developed Real Estate
+361151,IEUS,iShares MSCI Europe Small-Cap
+361158,MGC,Vanguard Mega Cap Index
+361159,MGK,Vanguard Mega Cap Growth Index
+361160,MGV,Vanguard Mega Cap Value Index
+361168,PBP,PowerShares S&P 500 BuyWrite Portfolio
+361174,SCJ,iShares MSCI Japan Small-Cap
+362434,PIE,PowerShares DWA Emerging Markets Momentum Port
+362435,PIZ,PowerShares DWA Developed Markets Momentum Port
+364125,KOL,Market Vectors Coal
+368147,BJK,Market Vectors Gaming
+368155,GCC,WisdomTree Continuous Commodity Index
+368400,JNK,SPDR Barclays High Yield Bond
+368640,EDV,Vanguard Extended Duration
+368972,HAO,Guggenheim Invest China Small Cap
+369581,PGX,PowerShares Preferred Portfolio
+370858,GSY,Guggenheim Enhanced Short Duration
+373293,EPI,WisdomTree India Earnings
+374158,SMB,Market Vectors AMT-Free Short Municipal
+374160,UGA,United States Gasoline
+376461,RWK,Oppenheimer Mid Cap Revenue
+376462,RWL,Oppenheimer Large Cap Revenue
+378431,RWJ,Oppenheimer Small Cap Revenue
+378868,WIP,SPDR Citi Intl Govt Inflation-Protected Bond
+380535,ACWX,iShares MSCI ACWI ex US
+380541,THD,iShares MSCI Thailand Capped
+380543,TUR,iShares MSCI Turkey
+382304,UHN,United States Diesel-Heating Oil Fund
+382908,TAN,Guggenheim Invest Solar
+387060,KWT,Market Vectors Solar Energy
+387379,MLN,Market Vectors AMT-Free Long Municipal
+387400,DWX,SPDR S&P International Dividend
+387409,PIN,PowerShares India Portfolio
+387414,ACWI,iShares MSCI ACWI
+387416,EIS,iShares MSCI Israel Capped
+387449,HNUZF,Horizons BetaPro NYMEX Natural Gas Bull Plus Units Class A
+388958,BZF,WisdomTree Brazilian Real Strategy
+388963,CYB,WisdomTree Chinese Yuan Strategy
+388974,EWX,SPDR S&P Emerging Markets Small Cap
+388977,GRI,Cohen & Steers Global Reality Majors
+388982,ICN,WisdomTree Indian Rupee Strategy
+388988,LTL,ProShares Ultra Telecommunications
+388989,MDD,SPDR S&P International Mid Cap
+389005,PST,ProShares UltraShort 7-10 Year Treasury
+389012,RWO,SPDR Dow Jones Global Real Estate
+389020,TBT,ProShares UltraShort 20+ Year Treasury
+393367,FRN,Guggenheim Invest Frontier Markets
+393609,IHPXF,iShares MSCI Europe ex-UK UCITS
+395950,PNQI,PowerShares Nasdaq Internet
+396480,HSXUF,Hang Seng H-Share
+396493,IHRMF,iShares MSCI Japan UCITS (Dist)
+397036,ICLN,iShares Global Clean Energy
+397199,WOOD,iShares Global Timber & Forestry
+398063,FAN,First Trust ISE Global Wind Energy Index
+400263,AUNZ,WisdomTree Australia & New Zealand Debt Fd
+400290,VT,Vanguard Total World Stock Index
+403051,AFK,Market Vectors Africa
+403054,DDG,ProShares Short Oil & Gas
+403056,GULF,WisdomTree Middle East Dividend
+403069,SEF,ProShares Short Financials
+406759,AAXJ,iShares MSCI All Country Asia ex Japan
+407323,MES,Market Vectors Gulf States
+407578,IPD,SPDR S&P International Consumer Disc Sector
+407579,IPF,SPDR S&P International Financial Sector
+407580,IPK,SPDR S&P International Technology Sector
+407581,IPN,SPDR S&P International Industrial Sector
+407582,IPS,SPDR S&P International Consumer Staples Sector
+407583,IPU,SPDR S&P International Utilities Sector
+407584,IPW,SPDR S&P International Energy Sector
+407586,IRV,SPDR S&P International Materials Sector
+407587,IRY,SPDR S&P International Health Care Sector
+407588,IST,SPDR S&P International Telecommunications Sector E
+412533,PAGG,PowerShares Global Agriculture
+412536,PSAU,PowerShares Global Gold & Precious Metals
+417833,FLM,First Trust ISE Gl Engineering & Construction Idx
+417839,PXR,PowerShares Emerging Market Infra Portfolio
+424786,AGZ,iShares Agency Bond
+424787,AOM,iShares Core Moderate Allocation
+424793,HAP,Market Vectors Natural Resources
+427482,AOK,iShares Core Conservative Allocation
+427483,AOR,iShares Core Growth Allocation
+427484,SPXL,Direxion Daily S&P 500 Bull 3X Shares
+427485,SPXS,Direxion Daily S&P 500 Bear 3X Shares
+427495,ERX,Direxion Daily Energy Bull 3X Shares
+427496,ERY,Direxion Daily Energy Bear 3X Shares
+427497,FAS,Direxion Daily Financial Bull 3X
+427498,FAZ,Direxion Daily Financial Bear 3X
+427511,RWW,Oppenheimer Financials Sector Revenue
+427514,SUB,iShares Short-Term National AMT-Free Muni Bond
+427516,TNA,Direxion Daily Small Cap Bull 3X
+427518,TZA,Direxion Daily Small Cap Bear 3X
+431346,AGQ,ProShares Ultra Silver
+431354,GLL,ProShares UltraShort Gold
+431355,UGL,ProShares Ultra Gold
+431356,ZSL,ProShares UltraShort Silver
+432069,CMD,ProShares UltraShort Bloomberg Commodity
+432074,RTR,Oppenheimer ADR Revenue
+432075,SCO,ProShares UltraShort Bloomberg Crude Oil
+432076,YCL,ProShares Ultra Yen
+432246,UCD,ProShares Ultra Bloomberg Commodity
+432247,UCO,ProShares Ultra Bloomberg Crude Oil
+432805,EUO,ProShares UltraShort Euro
+432807,PSR,PowerShares Active US Real Estate
+432819,ULE,ProShares Ultra Euro
+432820,YCS,ProShares UltraShort Yen
+434779,AOA,iShares Core Aggressive Allocation
+434781,DPK,Direxion Daily Developed Markets Bear 3X
+434782,DZK,Direxion Daily Developed Markets Bull 3X
+434783,EDC,Direxion Daily Emerging Markets Bull 3X
+434784,EDZ,Direxion Daily Emerging Market Bear 3X Shares
+434787,TECL,Direxion Daily Technology Bull 3X Shares
+434788,TECS,Direxion Daily Technology Bear 3X Shares
+436392,MIDU,Direxion Daily Mid Cap Bull 3X Shares
+436393,MIDZ,Direxion Daily Mid Cap Bear 3X Shares
+438591,BWZ,SPDR Barclays Short Term Intl Treasury Bond
+438595,IGOV,iShares International Treasury Bond
+438596,MBG,SPDR Barclays Mortgage Backed Bond
+438599,RWV,Oppenheimer Navellier Overall A-100 Revenue
+440571,HYD,Market Vectors High Yield Municipal
+440572,IDX,Market Vectors Indonesia
+440574,PRB,Market Vectors Pre Refunded Municipal
+440799,GXG,Global X MSCI Colombia
+440805,HBNNF,Horizons BetaPro NYMEX Natural Gas Bear Plus Units Class A
+440820,HZOZF,Horizons Betapro Nymex Crude Oil Bull Plus Units Class A
+440827,IFXAF,iShares FTSE A50 China
+442121,ITR,SPDR Barclays Intermediate Term Corporate Bond
+443392,ISHG,iShares 1-3 Yr International Treasury Bond
+448218,LWC,SPDR Barclays Long Term Corporate Bond
+448219,QAI,IQ Hedge Multi-Strategy Tracker
+450996,CWB,SPDR Barclays Convertible Securities
+450997,TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares
+450998,TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares
+450999,TYD,Direxion Daily 7-10 Year Treasury Bull 3X Shares
+451000,TYO,Direxion Daily 7-10 Year Treasury Bear 3X Shares
+451001,VSS,Vanguard FTSE All-World ex-US Small-Cap Index
+452361,ISDXF,iShares Canadian Corporate Bond
+453312,BRF,Market Vectors Brazil Small-Cap
+455373,CEW,WisdomTree Emerging Currency Strategy
+455562,TUZ,PIMCO 1-3 Year US Treasury
+458846,BZQ,ProShares UltraShort MSCI Brazil Capped
+458848,EET,ProShares Ultra MSCI Emg Mkts
+458849,EFO,ProShares Ultra MSCI EAFE
+458850,EMIF,iShares Emerg Markets Infrastructure
+458851,EPU,iShares MSCI All Peru Capped
+458852,EPV,ProShares UltraShort FTSE Europe
+458853,EZJ,ProShares Ultra MSCI Japan
+458857,JPX,ProShares UltraShort MSCI Pac ex-Japan
+458859,MCRO,IQ Hedge Macro Tracker
+458862,QABA,First Trust NASDAQ ABA Community Bank Index
+458864,SMK,ProShares UltraShort MSCI Mexico Capped IMI
+458865,SPXU,ProShares UltraPro Short S&P500
+458867,UPRO,ProShares UltraPro S&P500
+458868,XPP,ProShares Ultra FTSE China 50
+461143,DRN,Direxion Daily Real Estate Bull 3X Shares
+461144,DRV,Direxion Daily Real Estate Bear 3X Shares
+465584,CSM,ProShares Large Cap Core Plus
+465587,EQL,ALPS Equal Sector Weight
+465588,GXF,Global X FTSE Nordic Region
+465604,SIVR,ETFS Silver Trust
+465605,STPZ,PIMCO 1-5 Year US TIPS Index Exchange-Traded
+465606,TBF,ProShares Short 20+ Yr Treasury
+465609,VNM,Market Vectors Vietnam
+467900,LTPZ,PIMCO 15+ Year US TIPS Index Exchange-Traded
+467901,SGOL,ETFS Gold Trust
+467903,TIPZ,PIMCO Broad US TIPS Index Exchange-Traded
+471907,CRBQ,Alps Global Commodity Equity
+471909,DNO,United States Short Oil
+471913,PSK,SPDR Wells Fargo Preferred Stock
+474359,ZROZ,PIMCO 25+ Year Zero Coupon US Treasury
+475181,GDXJ,Market Vectors Junior Gold Miners
+475799,MINT,PIMCO Enhanced Short Maturity Active Exch Tr
+476095,SCHA,Schwab US Small-Cap
+476096,SCHB,Schwab US Broad Market
+476097,SCHF,Schwab International Equity
+476098,SCHX,Schwab US Large-Cap
+476336,GRID,First Trust NASDAQ Clean Edge Smart Grid Infra Idx
+476338,INDY,iShares India 50
+476339,IWL,iShares Russell Top 200
+476340,IWX,iShares Russell Top 200 Value
+476341,IWY,iShares Russell Top 200 Growth Index
+476344,YAO,Guggenheim Invest China All-Cap
+477615,CLFMF,iShares 1-5 Year Laddered Government Bond Idx
+479343,BAB,PowerShares Build America Bond Port
+479349,CHII,Global X China Industrials
+479350,CHIQ,Global X China Consumer
+479351,CLY,iShares 10+ Year Credit Bond
+479352,CPI,IndexIQ Real Return
+479354,YANG,Direxion Daily FTSE CHINA Bear 3x Shares
+479355,YINN,Direxion Daily FTSE China Bull 3x Shares
+479358,ILTB,iShares Core 10+ Year USD Bond
+479359,GRES,IQ Global Resources
+479361,LBJ,Direxion Daily Latin America Bull 3X Shares
+479363,MNA,IndexIQ Merger Arbitrage
+479364,MUNI,PIMCO Intermediate Municipal Bond Active
+479365,PLND,Market Vectors Poland
+479366,SCHV,Schwab US Large-Cap Value
+479368,VCIT,Vanguard Intermediate-Term Corp Bond Index
+479369,VCLT,Vanguard Long-Term Corporate Bond Index
+479370,VCSH,Vanguard Short-Term Corporate Bond Index
+479371,VGIT,Vanguard Intermediate-Term Govt Bd Index
+479372,VGSH,Vanguard Short-Term Government Bond Index
+479373,VMBS,Vanguard Mortgage-Backed Secs Index
+482644,CHIM,Global X China Materials
+482649,IBME,iShares iBonds Sep 2016 AMT-Free Muni Bond
+482650,IBMF,iShares iBonds Sep 2017 AMT-Free Muni Bond
+482651,PALL,ETFS Physical Palladium Shares
+482652,SCHC,Schwab International Small-Cap Equity
+482653,SCHE,Schwab Emerging Markets Equity
+483378,HEDJ,WisdomTree Europe Hedged Equity
+483902,QQQC,Global X NASDAQ China Technology
+483903,CHIE,Global X China Energy
+483904,CHIX,Global X China Financials
+483906,CQQQ,Guggenheim Invest China Technology
+483914,SCHG,Schwab US Large-Cap Growth
+483915,SCPB,SPDR Barclays Short Term Corporate Bond
+483917,UBT,ProShares Ultra 20+ Year Treasury
+483918,UNL,United States 12 Month Natural Gas
+483919,VGLT,Vanguard Long-Term Government Bond Index
+484039,PPLT,ETFS Physical Platinum Shares
+485871,GMMB,Columbia Intermediate Municipal Bond
+485872,GMTB,Columbia Core Bond
+485874,UST,ProShares Ultra 7-10 Year Treasury
+485957,SMMU,PIMCO Short Term Municipal Bond Active Exch Tr Fd
+486055,EUFN,iShares MSCI Europe Financials
+489712,EGPT,Market Vectors Egypt
+489714,PCEF,PowerShares CEF Income Composite Portfolio
+489715,SDOW,ProShares UltraPro Short Dow 30
+489716,SMDD,ProShares UltraPro Short MidCap400
+489717,SQQQ,ProShares UltraPro Short QQQ
+489718,SRTY,ProShares UltraPro Short Russell2000
+489719,TQQQ,ProShares UltraPro QQQ
+489722,UDOW,ProShares UltraPro Dow30
+489723,UMDD,ProShares UltraPro MidCap400
+489724,URTY,ProShares UltraPro Russell2000
+494293,CNDA,IQ Canada Small Cap
+494295,FTRI,First Trust Indxx Global Natural Resources Inc
+494297,INDL,Direxion Daily India Bull 3X Shares
+494299,KROO,IQ Australia Small Cap
+494303,FTAG,First Trust Indxx Global Agriculture
+494304,RBL,SPDR S&P Russia
+494305,REK,ProShares Short Real Estate
+494306,SBM,ProShares Short Basic Materials
+494307,SOXL,Direxion Daily Semiconductor Bull 3X Shares
+494308,SOXS,Direxion Daily Semiconductor Bear 3X Shares
+494312,WREI,Guggenheim Invest Wilshire US REIT
+494314,YXI,ProShares Short FTSE China 50
+494696,CLYLF,iShares S&P TSX Canadian Dividend Aristocrats
+494758,TPXXF,TOPIX
+495095,BIB,ProShares Ultra Nasdaq Biotechnology
+495096,BIS,ProShares UltraShort Nasdaq Biotechnology
+495107,PSCM,PowerShares S&P SmallCap Materials
+495108,PSCE,PowerShares S&P SmallCap Energy
+495109,PSCF,PowerShares S&P SmallCap Financials
+495110,PSCI,PowerShares S&P SmallCap Industrials
+495111,PSCT,PowerShares S&P SmallCap Information Technology
+495112,PSCC,PowerShares S&P SmallCap Consumer Staples
+495113,PSCU,PowerShares S&P SmallCap Utilities
+495114,PSCH,PowerShares S&P SmallCap Health Care
+495115,PSCD,PowerShares S&P SmallCap Consumer Discretionary
+496563,COPX,Global X Copper Miners
+496564,SIL,Global X Silver Miners
+496835,CGBLF,iShares Gold Bullion Hedged
+496934,ISMUF,iShares MSCI China
+499430,EIDO,iShares MSCI Indonesia
+499431,EUSA,iShares MSCI USA Equal Weighted
+499433,UBR,ProShares Ultra MSCI Brazil Capped
+499435,UMX,ProShares Ultra MSCI Mexico Capped IMI
+499436,UPV,ProShares Ultra FTSE Europe
+499437,UXJ,ProShares Ultra MSCI Pacific ex-Japan
+499542,EIRL,iShares MSCI Ireland
+501063,BICK,First Trust BICK Index
+501064,KRS,ProShares Short S&P Regional Banking
+501065,KRU,ProShares Ultra S&P Regional Banking
+502616,BABS,SPDR Nuveen Barclays Build America Bond
+502621,IBND,SPDR Barclays International Corporate Bond
+502629,ZKBGF,ZKB Gold AA USD
+502830,BNO,United States Brent Oil
+503498,INITF,iShares Canadian Short Term Bond
+503500,ISHAF,iShares Diversified Monthly Income
+503628,ZKBPF,ZKB Palladium AA CHF
+508368,LIT,Global X Lithium
+508433,AADR,WCM/BNY Mellon Focused Growth ADR
+508434,BRAQ,Global X Brazil Consumer
+508435,BRAZ,Global X Brazil Mid Cap
+508440,BSCG,Guggenheim BulletShares 2016 Corporate Bond
+508441,BSCH,Guggenheim BulletShares 2017 Corporate Bond
+508442,CORN,Teucrium Corn
+508444,EMLC,Market Vectors JP Morgan EM Local Currency Bd
+508445,EPOL,iShares MSCI Poland Capped
+508446,GASL,Direxion Daily Natural Gas Related Bull 3X
+508451,PICB,PowerShares International Corporate Bond
+508452,RETL,Direxion Daily Retail Bull 3X Shares
+508455,SCIN,EGShares India Small Cap
+508456,SEA,Guggenheim Invest Shipping
+514301,AMLP,ALPS Alerian MLP
+514309,ELD,WisdomTree Emerging Markets Local Debt
+514311,INXX,EGShares India Infrastructure
+514313,SCHO,Schwab Short Term US Treasury
+514314,SCHP,Schwab US TIPS
+514315,SCHR,Schwab Intermediate Term US Treasury
+514316,SCIF,Market Vectors India Small-Cap
+515218,ENZL,iShares MSCI New Zealand Capped
+518364,CCX,WisdomTree Commodity Currency Strategy
+518365,CORP,PIMCO Investment Grade Corporate Bond
+518366,ECNS,iShares MSCI China Small-Cap
+518367,ECON,EGShares Emerging Markets Consumer
+518368,EPHE,iShares MSCI Philippines
+518369,EWZS,iShares MSCI Brazil Small Cap
+518370,GNR,SPDR S&P Global Natural Resources
+518371,IVOG,Vanguard S&P Mid Cap 400 Growth
+518372,IVOO,Vanguard S&P Mid Cap 400
+518373,IVOV,Vanguard S&P Mid Cap 400 Value
+518375,USCI,United States Commodity Index
+518376,VIOG,Vanguard S&P Small Cap 600 Growth
+518377,VIOO,Vanguard S&P Small Cap 600
+518378,VIOV,Vanguard S&P Small Cap 600 Value
+518379,VONE,Vanguard Russell 1000 Index
+518380,VONG,Vanguard Russell 1000 Growth Index
+518381,VONV,Vanguard Russell 1000 Value Index
+518382,VOO,Vanguard S&P 500
+518383,VOOG,Vanguard S&P 500 Growth Index
+518384,VOOV,Vanguard S&P 500 Value Index
+518385,VTHR,Vanguard Russell 3000 Index
+518386,VTWG,Vanguard Russell 2000 Growth Index
+518387,VTWO,Vanguard Russell 2000 Index
+518388,VTWV,Vanguard Russell 2000 Value Index
+520632,PEK,Market Vectors ChinaAMC A-Share
+520852,ISXIF,iShares S&P BSE SENSEX India
+522270,GLTR,ETFS Physical PM Basket Shares
+522271,GTAA,Morgan Creek Global Tactical
+523912,GLDX,Global X Gold Explorers
+524387,URA,Global X Uranium
+524503,REMX,Market Vectors Rare Earth/Strategic Metals
+524505,VNQI,Vanguard Global ex-US Real Estate Index
+524927,ERUS,iShares MSCI Russia Capped
+524929,NORW,Global X MSCI Norway
+527652,HYLD,Peritus High Yield
+529079,WITE,ETFS Physical WM Basket Shares
+529236,DUST,Direxion Daily Gold Miners Index Bear 3X Shares
+529238,EWEM,Guggenheim MSCI EM Equal Country Weight
+529240,EWMC,Guggenheim S&P MidCap 400 Equal Weight
+529241,EWSC,Guggenheim S&P SmallCap 600 Equal Weight
+529245,KBWD,PowerShares KBW High Dividend Yield Financial
+529247,KBWY,PowerShares KBW Premium Yield Equity REIT Port
+529249,NUGT,Direxion Daily Gold Miners Index Bull 3X
+529251,RALS,ProShares RAFI Long/Short
+529253,STIP,iShares 0-5 Year TIPS Bond
+530630,KBWP,PowerShares KBW Property & Casualty Insurance Port
+531466,ZKBSF,ZKB Silver AA CHF
+533085,SCHH,Charles Schwab US REIT
+533086,SCHM,Schwab US Mid-Cap
+533088,VIXM,ProShares VIX Mid Term Futures
+533089,VIXY,ProShares VIX Short Term Futures
+533090,WDTI,WisdomTree Managed Futures Strategy
+535029,HDGE,Ranger Equity Bear
+535031,XHE,SPDR S&P Health Care Equipment
+535032,XTL,SPDR S&P Telecom
+535033,XTN,SPDR S&P Transportation Trust
+536148,AND,Global X FTSE Andean 40
+536153,VXUS,Vanguard Total International Stock Index
+536642,TPS,ProShares UltraShort TIPS
+537048,ASEA,Global X Southeast Asia
+537593,FONE,First Trust NASDAQ Smartphone Index
+539103,EBND,SPDR Barclays Emerging Markets Local Bond
+539104,EDIV,SPDR S&P Emerging Markets Dividend
+539782,ARGT,Global X MSCI Argentina
+542063,ALD,WisdomTree Asia Local Debt
+542064,BKLN,PowerShares Senior Loan Portfolio
+542199,CROP,IQ Global Agribusiness Small Cap
+542203,SJB,ProShares Short High Yield
+543060,SAGG,Direxion Daily Total Bond Market Bear 1X Shares
+543062,TYBS,Direxion Daily 20+ Year Treasury Bear 1X Shares
+543063,TYNS,Direxion Daily 7-10 Year Treasury Bear 1X Shares
+543064,ZSILF,ZKB Silver AA USD
+544263,IGS,Proshares Short Investment Grade Corporate
+544546,HDV,iShares Core High Dividend
+544632,MCHI,iShares MSCI China
+544931,TBX,ProShares Short 7-10 Year Treasury
+544932,TBZ,ProShares UltraShort 3-7 Year Treasury
+545083,IUSPF,iShares S&P/TSX Capped REIT
+545771,CBND,SPDR Barclays Issuer Scored Corp Bond
+546115,IUTSF,iShares S&P/TSX 60
+546631,FDT,First Trust Developed Markets Ex US AlphaDEX
+548216,FBZ,First Trust Brazil AlphaDEX
+548217,FCA,First Trust China AlphaDEX
+548218,FEM,First Trust Emerging Markets AlphaDEX
+548219,FEP,First Trust Europe AlphaDEX
+548220,FJP,First Trust Japan AlphaDEX
+548221,FKO,First Trust South Korea AlphaDEX
+548222,FLN,First Trust Latin America AlphaDEX
+548223,FLTR,Market Vectors Investment Grade Floating Rate
+548224,FNY,First Trust Mid Cap Growth AlphaDEX
+548226,FPA,First Trust Asia Pacific Ex Japan AlphaDEX
+548229,FYC,First Trust Small Cap Growth AlphaDEX
+548233,HYMB,SPDR Nuveen S&P High Yield Municipal Bond
+548234,IGU,ProShares Ultra Investment Grade Corporate
+548243,RSXJ,Market Vectors Russia Small-Cap
+548247,UJB,ProShares Ultra High Yield
+549095,IOIL,IQ Global Oil Small Cap
+549099,SPLV,Powershares S&P 500 Low Volatility Portfolio
+550209,EMAG,Market Vectors Emerging Markets Aggregate Bond
+550210,CARZ,First Trust NASDAQ Global Auto Index
+550213,FMK,First Trust Mega Cap AlphaDEX
+550214,FNK,First Trust Mid Cap Value AlphaDEX
+550691,FYT,First Trust Small Cap Value AlphaDEX
+550696,SPHB,Powershares S&P 500 High Beta Portfolio
+550991,ISHXF,iShares Canadian Government Bond
+552193,RUSL,Direxion Daily Russia Bull 3X Shares
+552360,GTIP,iShares Global Inflation-Linked Bond
+552365,ITIP,iShares International Inflation-Linked Bond
+553549,RUSS,Direxion Daily Russia Bear 3X Shares
+553550,SOIL,Global X Fertilizers/Potash
+555292,DBBR,Deutsche X-trackers MSCI Brazil Hedged Equity
+555293,DBGR,Deutsche X-trackers MSCI Germany Hedged Equity
+555294,DBEF,Deutsche X-trackers MSCI EAFE Hedged Equity
+555295,DBEM,Deutsche X-trackers MSCI Em Mkts Hdg Eqty
+555296,DBJP,Deutsche X-trackers MSCI Japan Hedged Equity
+555297,SDIV,Global X SuperDividend
+555888,ROOF,IQ US Real Estate Small Cap
+556402,CURE,Direxion Daily Healthcare Bull 3X Shares
+556405,PXLV,PowerShares Russell Top 200 Pure Value
+557980,FLOT,iShares Floating Rate Bond
+558824,MATH,Meidell Tactical Advantage
+558826,PXLG,PowerShares Russell Top 200 Pure Growth
+559096,ICDXF,iShares Canadian Real Return Bond
+560350,FWDB,Madrona Global Bond
+560351,FWDD,Madrona Domestic
+560353,HYS,PIMCO 0-5 Year High Yield Corporate Bond
+561093,SKYY,First Trust ISE Cloud Computing Index
+561255,FWDI,Madrona International
+563387,HDG,ProShares Hedge Replication
+563388,NKY,Maxis Nikkei 225 Index
+563389,RRF,WisdomTree Global Real Return
+563390,SCHZ,Schwab US Aggregate Bond
+563392,XMPT,Market Vectors CEF Municipal Income
+567251,HILO,EGShares EM Quality Dividend
+567253,TOTS,Direxion Daily Total Market Bear 1x Shares
+571016,MORT,Market Vectors Mortgage REIT Income
+571224,EEMS,iShares MSCI Emerging Markets Small-Cap
+572256,INCO,EGShares India Consumer
+574874,ISARF,iShares Canadian Universe Bond
+574875,MOM,QuantShares US Market Neutral Momentum
+574878,SIZ,QuantShares US Market Neutral Size
+576168,BTAL,QuantShares US Market Neutral Anti-Beta
+576169,CHEP,QuantShares US Market Neutral Value
+577446,CANE,Teucrium Sugar
+577448,PFIG,PowerShares Fundmntl Invest Grade Corp Bond Ptf
+577449,SOYB,Teucrium Soybean
+577450,WEAT,Teucrium Wheat
+578892,GUNR,FlexShs Morningstar Glbl Upsteam Ntrl Res Index
+578893,TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index
+578894,TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index
+578895,TILT,FlexShares Morningstar US Market Factor Tilt Index
+579597,XAR,SPDR S&P Aerospace & Defense
+579598,XHS,SPDR S&P Health Care Services
+579599,XSW,SPDR S&P Software & Services
+580662,FXCH,Guggenheim CurrencyShares Chinese Renminbi Trust
+580668,SVXY,ProShares Short VIX Short-Term Futures
+580669,TTFS,TrimTabs Float Shrink
+580670,UVXY,ProShares Ultra VIX Short Term Futures
+580980,BOIL,ProShares Ultra Bloomberg Natural Gas
+580981,KOLD,ProShares UltraShort Bloomberg Natural Gas
+582723,DSUM,PowerShares Chinese Yuan Dim Sum Bond Portfolio
+583041,SCHD,Schwab US Dividend Equity
+583042,USMV,iShares MSCI USA Minimum Volatility
+584997,KBWB,PowerShares KBW Bank Portfolio
+584998,KBWC,PowerShares KBW Capital Markets Portfolio
+584999,KBWI,PowerShares KBW Insurance Portfolio
+585000,KBWR,PowerShares KBW Regional Banking Portfolio
+586619,CPER,United States Copper
+586890,IPFF,iShares International Preferred Stock
+589269,ACWV,iShares MSCI All Country World Minimum Vol
+589271,EEMV,iShares MSCI Emerging Markets Minimum Vol
+589272,EFAV,iShares MSCI EAFE Minimum Volatility
+589273,LEMB,iShares Emerging Markets Local Currency Bond
+589274,SOCL,Global X Social Media
+590808,GREK,Global X FTSE Greece 20
+590809,KNOW,Direxion All Cap Insider Sentiment Shares
+593139,FLRN,SPDR Barclays Invest Grade Floating Rate
+593140,SST,SPDR Barclays Short Term Treasury
+595506,EELV,PowerShares S&P Emerging Markets Low Volatility
+595512,RINF,ProShares 30 Year TIPS/TSY Spread
+595514,URTH,iShares MSCI World
+595827,IHSZF,iShares MSCI EM Latin America UCITS (Dist)
+595891,VSPY,Direxion S&P 500 Volatility Response Shares
+596084,IDLV,PowerShares S&P Intl Developed Low Volatility Port
+596767,EEML,iShares MSCI Emerging Markets Latin America
+597565,ENOR,iShares MSCI Norway Capped
+597959,EFNL,iShares MSCI Finland Capped
+597962,EWGS,iShares MSCI Germany Small-Cap
+597963,EWUS,iShares MSCI United Kingdom Small-Cap
+598113,EDEN,iShares MSCI Denmark Capped
+598116,GGOV,ProShares German Sovereign/Sub-Sovereign
+598344,ISDJF,iShares Canadian Select Dividend
+598662,ITSXF,iShares S&P/TSX Capped Financials
+600146,FILL,iShares MSCI Global Energy Producers
+600147,INDA,iShares MSCI India
+600149,PERM,Global X Permanent
+600150,PICK,iShares MSCI Global Metals & Mining Producers
+600152,RING,iShares MSCI Global Gold Miners
+600155,SLVP,iShares MSCI Global Silver Miners
+600156,VEGI,iShares MSCI Global Agriculture Producers
+600310,EEMA,iShares MSCI Emerging Markets Asia
+600331,SMIN,iShares MSCI India Small-Cap
+600935,CMBS,iShares CMBS
+600944,QLTA,iShares Aaa - A Rated Corporate Bond
+601069,FDTS,First Trust Developed Markets ex US Small Cap AlphaDEX
+601070,FEMS,First Trust EM Small Cap AlphaDEX
+601413,FRAK,Market Vectors Unconventional Oil & Gas
+601595,FAUS,First Trust Australia AlphaDEX
+601596,FCAN,First Trust Canada AlphaDEX
+601599,FGM,First Trust Germany AlphaDEX
+601614,GNMA,iShares GNMA Bond
+603483,DVYA,iShares Asia/Pacific Dividend
+603484,DVYE,iShares Emerging Markets Dividend
+603485,EEHB,PowerShares S&P Emerging Markets High Beta
+603486,FHK,First Trust Hong Kong AlphaDEX
+603487,GOVT,iShares Core US Treasury Bond
+603488,IDHB,PowerShares S&P Intl Developed High Beta Port
+604601,BOND,PIMCO Total Return Active Exchange-Traded
+604787,ACIM,SPDR MSCI ACWI IMI
+604789,EMFT,SPDR MSCI EM 50
+604790,FKU,First Trust United Kingdom AlphaDEX
+604791,FSZ,First Trust Switzerland AlphaDEX
+604792,FTW,First Trust Taiwan AlphaDEX
+605219,EMCB,WisdomTree Emerging Markets Corporate Bond
+607514,IDXJ,Market Vectors Indonesia Small-Cap
+607515,QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares
+609141,TAGS,Teucrium Agricultural
+609673,BSCI,Guggenheim BulletShares 2018 Corporate Bond
+609674,BSCJ,Guggenheim BulletShares 2019 Corporate Bond
+609675,BSCK,Guggenheim BulletShares 2020 Corporate Bond
+609679,TTT,ProShares UltraPro Short 20+ Year Treasury
+610658,HYXU,iShares International High Yield Bond
+610659,IHY,Market Vectors International High Yield Bond
+611173,EMHY,iShares Emerging Markets High Yield Bond
+611174,GHYG,iShares Global High Yield Corporate Bond
+611175,IYLD,iShares Morningstar Multi-Asset Income
+611178,SJNK,SPDR Barclays Short Term High Yield Bond
+611371,ANGL,Market Vectors Fallen Angel High Yield Bond
+612371,CEMB,iShares Emerging Markets Corporate Bond
+613041,MLPA,Global X MLP
+613690,GAL,SPDR SSgA Global Allocation
+613691,INKM,SPDR SSgA Income Allocation
+613692,RLY,SPDR SSgA Multi-Asset Real Return
+614278,MOAT,Market Vectors Morningstar Wide Moat
+615538,GYLD,Arrow Dow Jones Global Yield
+615914,BSJG,Guggenheim BulletShares 2016 High Yld Corp Bd
+615915,BSJI,Guggenheim BulletShares 2018 High Yld Corp Bd
+615966,USAG,United States Agriculture
+617054,BSJH,Guggenheim BulletShares 2017 High Yld Corp Bd
+617056,HYEM,Market Vectors Emg Mkts High Yield Bd
+617057,ILB,PIMCO Global Advantage Inflation Linked Bond Active
+621471,GIVE,Global Echo
+622810,ALFA,AlphaClone Alternative Alpha
+629200,YYY,YieldShares High Income
+630081,GURU,Global X Guru
+631289,COBO,ProShares USD Covered Bond
+631295,QLTB,iShares Baa - Ba Rated Corporate Bond
+633171,EMCD,SPDR BofA Merrill Lynch Emerging Mkts Corp Bd
+633172,QLTC,iShares B - Ca Rated Corporate Bond
+633174,CJNK,SPDR BofA Merrill Lynch Crossover Corporate Bond
+635145,EMLP,First Trust North American Energy Infrastructure
+637222,HECO,EcoLogical Strategy
+639987,EUFX,ProShares Short Euro
+639988,FINU,ProShares UltraPro Financial Select Sector
+639989,FINZ,ProShares UltraPro Short Financial Select Sector
+639991,EPRO,AdvisorShares EquityPro
+639992,SDOG,ALPS Sector Dividend Dogs
+651020,CROC,ProShares UltraShort Australian Dollar
+651023,DWAS,PowerShares DWA SmallCap Momentum Portfolio
+651026,PFXF,Market Vectors Preferred Secs ex Finls
+651028,SPFF,Global X SuperIncome Preferred
+659308,CLAYF,iShares 1-5 Year Laddered Corporate Bond
+659400,HUSE,US Equity Rotation Strategy
+659409,IHSXF,iShares MSCI North America UCITS
+659413,IOOXF,iShares Core Canadian Long Term Bond
+659419,IRSHF,iShares Core S&P/TSX Capped Composite
+659421,ISRPF,iShares $ Corporate Bond UCITS
+659422,IUNTF,iShares MSCI EAFE (CAD-Hedged)
+661172,MDIV,First Trust Multi-Asset Diversified Income Index
+661173,TDIV,First Trust NASDAQ Technology Dividend Index Fd
+661477,IHSFF,iShares $ TIPS UCITS
+661498,QEH,AdvisorShares QAM Equity Hedge
+662232,BBRC,EGShares Beyond BRICs
+662243,EMDD,EGShares Emerging Markets Domestic Demand
+662256,IUTCF,iShares S&P/TSX Global Gold
+668396,VIXH,First Trust CBOE S&P 500 VIX Tail Hedge
+669541,FM,iShares MSCI Frontier 100
+670469,VEGA,Star Global Buy-Write
+671006,CXSE,WisdomTree Trust China ex State Owned Enterprises
+674894,TLTD,FlexShares MS Dev Mkts exUS Factors Tilt Idx
+674895,TLTE,FlexShares Morningstar Em Mkts Factors Tilt Idx
+676119,QMN,IQ Hedge Market Neutral Tracker
+676650,RAVI,FlexShares Ready Access Variable Income
+676978,EMCR,EGShares Emerging Markets Core
+676983,VTIP,Vanguard Sht-Term Inflation-Protected Sec Idx
+677340,CFYFF,iShares Canadian Fundamental
+678916,IEFA,iShares Core MSCI EAFE
+678917,IEMG,iShares Core MSCI Emerging Markets
+678918,ISTB,iShares Core 1-5 Year USD Bond
+678919,IXUS,iShares Core MSCI Total International Stock
+680855,MMTM,SPDR S&P 1500 Momentum Tilt
+680856,VLU,SPDR S&P 1500 Value Tilt
+681783,SPHD,PowerShares S&P 500 High Div Low Volatility Port
+684345,SNLN,Highland/iBoxx Senior Loan
+689391,SILJ,PureFunds ISE Jr Silver (Sm Cap Miners/Expl)
+691140,IIREF,iShares MSCI World UCITS (Dist)
+691583,PHDG,PowerShares S&P 500 Downside Hedged Portfolio
+693008,MRGR,ProShares Merger
+694389,QDEF,FlexShares Quality Dividend Defensive Index
+694390,QDF,FlexShares Quality Dividend Index
+694391,QDYN,FlexShares Quality Dividend Dynamic Index
+730361,MLPJ,GLOBAL X Junior MLP
+731659,PEX,ProShares Global Listed Private Equity
+740952,FLAG,WeatherStorm Forensic Accounting Long Short
+740953,CRDT,WisdomTree Strategic Corporate Bond
+743243,BIZD,Market Vectors BDC Income
+743256,FPE,First Trust Preferred Securities And Income
+743264,IHPCF,iShares S&P 500 UCITS (Dist)
+743637,FXSG,Guggenheim CurrencyShares Singapore Dollar Trust
+745749,XMLV,PowerShares S&P MidCap Low Volatility Portfolio
+745750,XSLV,PowerShares S&P SmallCap Low Volatility Portfolio
+748336,SMLV,SPDR Russell 2000 Low Volatility
+749373,HYLS,First Trust Tactical High Yield
+752246,HVPW,Alps US Equity High Volatility Put Write Index
+752249,LGLV,SPDR Russell 1000 Low Volatility
+753097,DIV,Global X SuperDividend US
+755565,MINC,Newfleet Multi-Sector Income
+755566,IBMG,iShares iBonds Sep 2018 AMT-Free Muni Bond
+766537,THHY,Market Vectors Treasury-Hedged High Yield Bond
+766735,BRZU,Direxion Daily Brazil Bull 3X Shares
+766737,KORU,Direxion Daily South Korea Bull 3X Shares
+767351,NGE,Global X MSCI Nigeria
+767359,SRLN,SPDR Blackstone/GSO Senior Loan
+767706,IQDE,FlexShares International Quality Div Def Idx
+767707,IQDF,FlexShares International Quality Dividend Index Fd
+767708,IQDY,FlexShares International Quality Div Dyn Idx
+768201,IELG,iShares Enhanced US Large-Cap
+768202,IESM,iShares Enhanced US Small-Cap
+768204,MTUM,iShares MSCI USA Momentum Factor
+768205,SIZE,iShares MSCI USA Size Factor
+768766,IBCB,iShares iBonds Mar 2016 Corp ex-Financials
+768767,IBCC,iShares iBonds Mar 2018 Corp ex-Financials
+768768,IBCD,iShares iBonds Mar 2020 Corp ex-Financials
+768769,IBCE,iShares iBonds Mar 2023 Corp ex-Financials
+768773,VLUE,iShares MSCI USA Value Factor
+779446,FTSL,First Trust Senior Loan
+779990,PFEM,PowerShares Fundmntl Emerg Mkts Local Debt Ptf
+781378,SYLD,Cambria Shareholder Yield
+782810,DGRW,WisdomTree US Quality Dividend Growth
+782811,ISHOF,iShares S&P SmallCap 600 UCITS
+783079,HYHG,ProShares High Yield-Interest Rate Hedged
+786125,TIPX,SPDR Barclays 1-10 Year TIPS
+786126,WDIV,SPDR S&P Global Dividend
+792267,BFOR,ALPS Barron's 400
+792268,BNDX,Vanguard Total International Bond Index
+792271,RVNU,Deutsche X-trackers Municipal Infr Revenue Bd
+792273,VWOB,Vanguard Emerging Markets Govt Bd Idx
+797759,HSPX,Horizons S&P 500 Covered Call Of Exchange Listed
+797760,ICOL,iShares MSCI Colombia Capped
+797761,ISRA,Market Vectors Israel
+797762,JPNL,Direxion Daily Japan Bull 3x Shares
+797767,PGHY,PowerShares Global Short Term High Yield Bond Ptf
+797768,SPXH,Alps Janus Velocity Volatility Hedged Large Cap
+800495,DXJS,WisdomTree Japan Hedged SmallCap Equity
+800496,DXPS,WisdomTree United Kingdom Hedged Equity
+809928,TRSK,Janus Velocity Tail Risk Hedged Large Cap
+810922,IDOG,Alps Internatl Sector Dividends Dogs
+810929,TWOK,SPDR Russell 2000
+811282,IBDA,iShares iBonds Mar 2016 Corporate
+811283,IBDB,iShares iBonds Mar 2018 Corporate
+811284,IBDC,iShares iBonds Mar 2020 Corporate
+811285,IBDD,iShares iBonds Mar 2023 Corporate
+813007,BSCL,Guggenheim BulletShares 2021 Corporate Bond
+813015,QUAL,iShares MSCI USA Quality Factor
+815960,BSCM,Guggenheim BulletShares 2022 Corporate Bond
+815962,DGRS,WisdomTree US SmallCap Quality Dividend Growth
+816068,ERW,Janus Equal Risk Weighted Large Cap
+816475,NASH,Nashville Area
+816822,FMF,First Trust Morningstar Managed Futures Strat
+817387,MLPX,Global X MLP & Energy Infrastructure
+817641,DGRE,WisdomTree Emerging Markets Quality Dividend Gro
+817643,KWEB,KraneShares CSI China Internet
+818513,CMDT,iShares Commodity Optimized Trust
+818724,FNDA,Schwab Fundamental US Small Company
+818725,FNDB,Schwab Fundamental US Broad Market
+818726,FNDC,Schwab Fundamental Intl Small Company
+818727,FNDE,Schwab Fundamental EM Large Company
+818728,FNDF,Schwab Fundamental Intl Large Company
+818729,FNDX,Schwab Fundamental US Large Company
+819089,YDIV,First Trust Intl Multi-Asset Diversified Inc Index
+833898,BSJJ,Guggenheim BulletShares 2019 High Yld Corp Bd
+833899,BSJK,Guggenheim BulletShares 2020 High Yld Corp Bd
+836559,EMCG,WisdomTree Emerging Markets Consumer Growth
+844479,DBAP,Deutsche X-trackers MSCI AP x Japan Hdg Eq
+844480,DBEU,Deutsche X-trackers MSCI Europe Hedged Equity
+844481,DBUK,Deutsche X-trackers MSCI United Kingdom Hdg Eq
+844485,JDST,Direxion Daily Junior Gold Miners Idx Bear 3X
+844486,JNUG,Direxion Daily Junior Gold Miners Idx Bull 3X
+844487,NEAR,iShares Short Maturity Bond
+844489,RDIV,Oppenheimer Ultra Dividend Revenue
+845018,NFRA,FlexShares STOXX Global Broad Infrastructure Index
+845020,RIGS,ALPS RiverFront Strategic Income
+845144,CHNA,PowerShares China A-Share Portfolio
+845147,NOBL,ProShares S&P 500 Dividend Aristocrats
+845149,ULST,SPDR SSgA Ultra Short Term Bond
+845997,IPO,Renaissance IPO
+846605,DXGE,WisdomTree Germany Hedged Equity
+846607,SHYG,iShares 0-5 Year High Yield Corporate Bond
+846608,SLQD,iShares 0 to 5 Year Invest Grade Corporate Bond
+848119,FTGC,First Trust Global Tactical Commodity Strategy
+856183,FCOM,Fidelity MSCI Telecommunications Services
+856184,FDIS,Fidelity MSCI Consumer Discretionary
+856185,FENY,Fidelity MSCI Energy
+856186,FHLC,Fidelity MSCI Health Care
+856187,FIDU,Fidelity MSCI Industrials
+856188,FMAT,Fidelity MSCI Materials
+856189,FNCL,Fidelity MSCI Financials
+856190,FSTA,Fidelity MSCI Consumer Staples
+856191,FTEC,Fidelity MSCI Information Technology
+856192,FUTY,Fidelity MSCI Utilities
+857923,VIDI,Vident International Equity
+858202,ENFR,ALPS Alerian Energy Infrastructure
+858206,FTSD,Franklin Short Duration US Government
+858216,ROBO,ROBO Global Robotics and Automation
+858533,DXKW,WisdomTree Korea Hedged Equity
+858534,EMFM,Global X Next Emerging & Frontier
+859166,ASHR,Deutsche X-trackers Hvst CSI 300 China A-Shs
+859167,GQRE,FlexShares Global Quality Real Estate Index
+859168,IGHG,ProShares Investment Grade-Interest Rate Hdg
+861615,EMSH,ProShares Short Term USD Emerging Markets Bond
+871785,EMBB,SPDR MSCI EM Beyond BRIC
+905774,PGAL,Global X FTSE Portugal 20
+906536,QYLD,Recon Capital Nasdaq 100 Covered Call
+906792,ICSH,iShares Ultra Short-Term Bond
+907660,AGND,WisdomTree Barclays US Aggregate Bd Negative Dur
+907661,AGZD,WisdomTree Barclays US Aggregate Bd Zero Dur
+907663,HYND,WisdomTree BofA Merrill Lynch HY Bd Neg Duration
+907664,HYZD,WisdomTree BofA Merrill Lynch HY Bd Zero Duration
+907665,JGBB,WisdomTree Japan Interest Rate Strategy
+907666,USDU,WisdomTree Bloomberg US Dollar Bullish
+919351,FYLD,Cambria Foreign Shareholder Yield
+919684,RDVY,First Trust NASDAQ Rising Dividend Achievers
+919685,SYE,SPDR Mfs Systematic Core Equity
+919686,SYG,SPDR Mfs Systematic Growth Equity
+919687,SYV,SPDR MFS Systematic Value Equity
+919858,FTLB,First Trust Low Beta Income
+920133,FTHI,First Trust High Income
+920558,HOLD,AdvisorShares Sage Core Reserves
+922092,VUSE,Vident Core US Equity
+922101,DBAW,Deutsche X-trackers MSCI All Wld x US Hdg Eqty
+922102,DBKO,Deutsche X-trackers MSCI South Korea Hdg Eqty
+922103,DBMX,Deutsche X-trackers MSCI Mexico Hedged Equity
+922104,DI,PIMCO Diversified Income Active Exchange-Traded
+922109,LDUR,PIMCO Low Duration Active Exchange-Traded
+922116,SHYD,Market Vectors Short High-Yield Muni Index ET
+932537,TFLO,iShares Treasury Floating Rate Bond
+932538,USFR,WisdomTree Bloomberg Floating Rate Treasury
+933163,HEWJ,iShares Currency Hedged Msci Japan
+933166,ZMLP,Direxion Zacks MLP High Income Shares
+933637,IBMH,iShares iBonds Sep 2019 AMT-Free Muni Bond
+936459,HEFA,iShares Currency Hedged Msci Eafe
+936460,HEWG,iShares Currency Hedged Msci Germany
+937389,EURL,Direxion Daily FTSE Europe Bull 3X Shares
+937390,GEUR,AdvisorShares Gartman Gold/Euro
+937393,GYEN,AdvisorShares Gartman Gold/Yen
+938295,EQLT,ALPS Workplace Equality Portfolio
+941081,IEIL,iShares Enhanced International Large-Cap
+941082,IEIS,iShares Enhanced International Small-Cap
+941083,IPKW,PowerShares International BuyBack Achievers Ptf
+942837,HKOR,Horizons Korea KOSPI 200
+943144,KBA,KraneShares Bosera MSCI China A Share
+943147,YPRO,AdvisorShares YieldPro
+944581,AIRR,First Trust RBA American Industrial Renaissance
+944582,FV,First Trust Dorsey Wright Focus 5
+944825,GVAL,Cambria Global Value
+944930,IJNK,SPDR Barclays International High Yield Bond
+945607,QINC,First Trust RBA Quality Income
+1500293,EDOG,ALPS Emerging Sector Dividend Dogs
+1500303,TOLZ,ProShares DJ Brookfield Global Infrastructure
+1535114,ICDZF,iShares Canadian HYBrid Corporate Bond
+1537220,SSEEF,SSgA SPDR S&P US Dividend Aristocrats
+1537744,VNFGF,Vanguard Ftse Japan Ucits
+1538205,ABFXF,ABF Pan Asia Bond
+1554972,HBTPF,Horizons BetaPro NYMEX Crude Oil Bear Plus Class A
+1557112,IJSHF,iShares Euro Corporate Bond Lg Cap UCITS
+1561051,LYXMF,Lyxor Euro Stoxx 50 (DR) UCITS D-EUR
+1572292,SKJJF,SPDR S&P/ASX 200
+1587553,BYLD,iShares Yield Optimized Bond
+1592749,QAT,iShares MSCI Qatar Capped
+1592750,UAE,iShares MSCI UAE Capped
+1592753,CN,Deutsche X-trackers MSCI All China Equity
+1592952,VRP,PowerShares Variable Rate Preferred Portfolio
+1594319,EUDG,WisdomTree Europe Quality Dividend Growth
+1594320,IHDG,WisdomTree International Hedged Qual Dividend Gro
+1595776,FMB,First Trust Managed Municipal
+1595959,OUNZ,Van Eck Merk Gold
+1596289,DXJF,WisdomTree Japan Hedged Financials
+1596290,DXJH,WisdomTree Japan Hedged Health Care
+1596291,DXJC,WisdomTree Japan Hedged Capital Goods
+1596292,DXJT,WisdomTree Japan Hedged Tech Media and Telecom Fd
+1596309,DXJR,WisdomTree Japan Hedged Real Estate
+1596930,ASHS,Deutsche X-trackers Hvst CSI500 China A-Shs SC
+1598474,SPUU,Direxion Daily S&P 500 Bull 2X Shares
+1598763,HYGH,iShares Interest Rate Hedged High Yield Bond
+1598764,IBDF,iShares iBonds Dec 2016 Corporate
+1598765,IBDH,iShares iBonds Dec 2018 Corporate
+1598766,LQDH,iShares Interest Rate Hedged Corproate Bond
+1599091,LALT,PowerShares Multi-Strategy Alternative Portfolio
+1602065,AXJV,iShares MSCI Asia Ex Japan Minimum Volatility
+1602066,EUMV,iShares MSCI Europe Minimum Volatility
+1602067,JPMV,iShares MSCI Japan Minimum Volatility
+1602068,QEFA,SPDR MSCI Eafe Quality Mix
+1602069,QEMM,SPDR MSCI Emerging Markets Quality Mix
+1602070,QWLD,SPDR MSCI World Quality Mix
+1602071,SMEZ,SPDR Euro Stoxx Small Cap
+1603253,DGRO,iShares Core Dividend Growth
+1603254,IEUR,iShares Core MSCI Europe
+1603255,IPAC,iShares Core MSCI Pacific
+1603256,IUSB,iShares Core Total USD Bond Market
+1603258,QCAN,SPDR MSCI Canada Quality Mix
+1603259,QDEU,SPDR MSCI Germany Quality Mix
+1603260,QESP,SPDR MSCI Spain Quality Mix
+1603261,QGBR,SPDR MSCI United Kingdom Quality Mix
+1603262,QJPN,SPDR MSCI Japan Quality Mix
+1604063,JPGE,JPMorgan Diversified Return Global Equity
+1609139,CDC,Victory CEMP US EQ Income Enhanced Volatility Wtd
+1609140,CFA,Victory CEMP US 500 Volatility Wtd
+1609141,CFO,Victory CEMP US 500 Enhanced Volatility Wtd Index
+1613800,MAUI,AdvisorShares Market Adaptive Unconstrained Income
+1613897,HEZU,iShares Currency Hedged MSCI Eurozone
+1613898,REET,iShares Global REIT
+1614234,CFGE,Calamos Focus Growth
+1614385,SGDM,ALPS Sprott Gold Miners
+1630468,IFV,First Trust Dorsey Wright Intl Focus 5
+1630839,CNXT,Market Vectors ChinaAMC SME-ChiNext
+1633366,SMLL,Direxion Daily Small Cap Bull 2x Shares
+1633853,DIVI,Athena High Dividend
+1633902,CSF,Victory CEMP US Discovery Enhanced Volatility Wtd
+1633904,IBLN,Direxion ibillionaire
+1634841,TYTE,ProShares CDS North American HY Credit
+1634842,WYDE,ProShares CDS Short North American HY Credit
+1635035,FTSM,First Trust Exchange Traded IV First Trust Enhanced Short Ma
+1635430,CSTNL,iShares Core S&P 500 UCITS
+1635914,FDIV,First Trust Strategic Income
+1635918,IBMI,iShares iBonds Sep 2020 AMT Free Muni Bond
+1636915,EFAD,ProShares MSCI EAFE Dividend Growers
+1637980,WBIA,WBI Tactical SMG
+1637981,WBIB,WBI Tactical SMV
+1637982,WBIC,WBI Tactical SMY
+1637983,WBID,WBI Tactical SMS
+1637984,WBIE,WBI Tactical LCG
+1637985,WBIF,WBI Tactical LCV
+1637986,WBIG,WBI Tactical LCY
+1637987,WBIH,WBI Tactical High Income Shares
+1637988,WBII,WBI Tactical Income Shares
+1637989,WBIL,WBI Tactical LCS
+1642124,MBSD,FlexShares Disciplined Duration MBS Index
+1643633,FTLS,First Trust Long short Equity
+1643843,LDRI,PowerShares LadderRite 0 5 Year Corporate Bond
+1644046,RORO,SPDR SSgA Risk Aware
+1644651,TOFR,Stock Split Index
+1644881,BSCN,Guggenheim BulletShares 2023 Corporate Bond
+1644882,BSCO,Guggenheim BulletShares 2024 Corporate Bond
+1644883,BSJL,Guggenheim BulletShares 2021 High Yld Corp Bd
+1644884,BSJM,Guggenheim BulletShares 2022 High Yld Corp Bd
+1645725,DVP,Deep Value
+1646324,HEEM,iShares Currency Hedged MSCI Emerging Markets
+1648882,ARKQ,ARK Industrial Innovation
+1649155,CIZ,Victory CEMP Developed Enhanced Volatility Wtd Idx
+1649405,AMZA,ETFis InfraCap MLP
+1649407,FUTS,ProShares Managed Futures Strategy
+1650608,ALTS,ProShares Morningstar Alternatives Solution
+1650609,FBND,Fidelity Total Bond
+1650610,FCOR,Fidelity Corporate Bond
+1650611,FLTB,Fidelity Limited Term Bond
+1652198,COMT,iShares Commodities Select Strategy
+1652347,VBND,Vident Core US Bond Strategy
+1652878,QVAL,ValueShares US Quantitative Value
+1653031,FEUZ,First Trust Eurozone AlphaDEX
+1653217,DAX,Recon Capital DAX Germany
+1653619,EFFE,Global X JPMorgan Efficiente
+1653620,SCTO,Global X JPMorgan US Sector Rotator
+1656297,ARKG,ARK Genomic Revolution Multi-Sector
+1656299,STXX,ALPS STOXX Europe 600
+1659452,GMOM,Cambria Global Momentum
+1659958,FEMB,First Trust Emerging Mkts Local Currency Bond
+1659959,FPXI,First Trust International IPO
+1659960,LMBS,First Trust Low Duration Mtge Opportunities
+1660322,JPIN,JPMorgan Diversified Return International Eqty
+1660580,PDBC,PowerShares DB Opt Yield Dvsd Comdty Strategy Port
+1660788,CBON,Market Vectors ChinaAMC China Bond
+1660965,HACK,PureFunds ISE Cyber Security
+1661184,SKOR,FlexShares Credit-Scored US Corp Bond Index
+1661186,EMQQ,EMQQ The Emerging Markets Internet & Ecommerce
+1661881,CHNB,Global X GF China Bond
+1674990,LOWC,SPDR MSCI ACWI Low Carbon Target
+1679659,KCNY,KraneShares E China Commercial Paper
+1680370,IBDL,iShares iBonds Dec 2020 Corporate
+1681039,CRBN,iShares MSCI ACWI Low Carbon Target
+1681641,VALX,Validea Market Legends
+1681642,DBEZ,Deutsche X-trackers MSCI Eurozone Hedged Eqty
+1681643,XSOE,WisdomTree EM ex-State-Owned Enterprises
+1682076,GAA,Cambria Trust
+2000007,IVAL,ValueShares International Quantitative Value
+2000897,BBC,ETFis BioShares Biotechnology Clinical Trials
+2000898,BBP,ETFis BioShares Biotechnology Products
+2001784,DIVY,Reality Shares DIVS
+2005450,EQAL,PowerShares Russell 1000 Equal Weight Ptf
+2006617,SBIO,ALPS Medical Breakthroughs
+2007485,LLDM,Direxion Daily FTSE Developed Mkts Bull 1.25X Shs
+2007486,LLEM,Direxion Daily FTSE Emerging Mkts Bull 1.25X Shs
+2007487,LLSC,Direxion Daily Small Cap Bull 1.25x Shares
+2007495,JPEM,JPMorgan Diversified Return Emerging Mkts Eqty
+2007496,LLSP,Direxion Daily S&P 500 Bull 1.25X Shares
+2017189,IMTM,iShares MSCI International Dev Momentum Factor
+2017190,IQLT,iShares MSCI International Dev Quality Factor
+2022273,RGRO,Oppenheimer Global Growth Revenue
+2022980,ISRWF,iShares J.P. Morgan $ Emer Mkts Bd UCITS
+2022981,ISRZF,iShares $ High Yield Corporate Bd UCITS
+2023660,FREL,Fidelity MSCI Real Estate
+2023661,REGL,ProShares S&P MidCap 400 Dividend Aristocrats
+2023662,SMDV,ProShares Russell 2000 Dividend Growers
+2023663,SPYB,SPDR S&P 500 Buyback
+2025973,GDJJ,ProShares Ultra Junior Miners
+2025974,GDJS,ProShares UltraShort Junior Miners
+2025975,GDXS,ProShares UltraShort Gold Miners
+2025976,GDXX,ProShares Ultra Gold Miners
+2026967,FLRT,AdvisorShares Pacific Asset Enh Floating Rate
+2026968,RISE,Sit Rising Rate
+2028473,TUTT,ETFis Tuttle Tactical Management US Core
+2028474,INC,iShares US Fixed Income Balanced Risk
+2028475,TOTL,SPDR DoubleLine Total Return Tactical
+2028816,ROAM,Lattice Emerging Markets Strategy
+2028817,RODM,Lattice Developed Markets (ex-US) Strategy
+2028818,ROUS,Lattice US Equity Strategy
+2029151,QVM,Arrow QVM Equity Factor
+2031929,MEAR,iShares Short Maturity Municipal Bond
+2031931,HYIH,Deutsche X-trackers Hi Yield Corp Bd - IR Hdg
+2032579,EUSC,WisdomTree Europe Hedged SmallCap Equity
+2033996,VLML,Direxion Value Line Mid- and Large-Cap Hi Div
+2033997,VLSM,Direxion Value Line Small- and Mid-Cap Hi Div
+2034229,AFTY,CSOP FTSE China A50
+2034440,IBDJ,iShares iBonds Dec 2017 Corporate
+2034441,IBDK,iShares iBonds Dec 2019 Corporate
+2034442,IBDM,iShares iBonds Dec 2021 Corporate
+2034443,IBDN,iShares iBonds Dec 2022 Corporate
+2034444,IBDO,iShares iBonds Dec 2023 Corporate
+2034445,IBDP,iShares iBonds Dec 2024 Corporate
+2034446,IBDQ,iShares iBonds Dec 2025 Corporate
+2045721,XT,iShares Exponential Technologies
+2045999,QED,IQ Hedge Event-Driven Tracker
+2046000,QLS,IQ Hedge Long/Short Tracker
+2046001,ROGS,Lattice Global Small Cap Strategy
+2049245,SGDJ,ALPS Sprott Junior Gold Miners
+2050258,UK,Recon Capital FTSE 100
+2050488,DBRE,Deutsche X-trackers Dow Jones Hdg Intl Rl Est
+2050489,JHDG,WisdomTree Japan Hedged Quality Dividend Growth
+2050490,XRLV,PowerShares S&P 500 ex-Rate Sensitive LV Portfolio
+2050696,FFTY,Innovator IBD 50
+2051571,CHAU,Direxion Daily CSI 300 China A Share Bull 2X Shs
+2052345,SMCP,AlphaMark Actively Managed Small Cap
+2052571,PAK,Global X MSCI Pakistan
+2056350,ACTX,Global X Guru Activist
+2056358,INTF,iShares FactorSelect MSCI International
+2056360,JETS,US Global Jets
+2056361,LRGF,iShares FactorSelect MSCI USA
+2056362,SMLF,iShares FactorSelect MSCI USA Small-Cap
+2057791,FXEU,PowerShares Europe Currency Hedged Low Volatility
+2058501,DHVW,Diamond Hill Valuation Weighted 500
+2059886,VXDN,AccuShares Spot CBOE VIX Down
+2059887,VXUP,AccuShares Spot CBOE VIX Up
+2061021,DRIP,Direxion Daily S&P Oil & Gas Exp & Prod Br 3X Shs
+2061022,GUSH,Direxion Daily S&P Oil & Gas Exp & Prod Bl 3X Shs
+2061024,LABD,Direxion Daily S&P Biotech Bear 3X Shares
+2061025,LABU,Direxion Daily S&P Biotech Bull 3X Shares
+2063766,FCFI,TrimTabs Intl Free-Cash-Flow
+2063767,HHDG,Highland HFR Equity Hedge
+2064706,DXUS,WisdomTree Global ex-US Hedged Dividend
+2065622,HEGE,Direxion Daily MSCI Europe Currency Hdg Bl 2X Shs
+2065623,HEGJ,Direxion Daily MSCI Japan Currency Hdg Bull 2X Shs
+2065624,HFEZ,SPDR EURO STOXX 50 Currency Hedged
+2065625,SPUN,Market Vectors Global Spin-Off
+2065647,TUTI,ETFis Tuttle Tactical Management Mlt-Strategy Inc
+2065821,UBND,WisdomTree Western Asset Unconstrained Bond
+2066143,PTLC,Pacer Trendpilot 750
+2066144,PTMC,Pacer Trendpilot 450
+2066145,PTNQ,Pacer Trendpilot 100
+2066653,CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shs
+2066816,IVLU,iShares MSCI International Dev Value Factor
+2067736,HBZ,ProShares UltraShort Homebuilders & Supplies
+2067737,SOP,ProShares UltraShort Oil & Gas Explrtn & Prod
+2067765,UBIO,Proshares UltraPro NASDAQ Biotechnology
+2067766,ZBIO,ProShares UltraPro Short NASDAQ Biotechnology
+2068192,JPN,Deutsche X-trackers Japan JPX-Nikkei 400 Eqty
+2068405,HGEU,ProShares Hedged FTSE Europe
+2068406,HGJP,ProShares Hedged FTSE Japan
+2068711,HTUS,Hull Tactical US
+2071966,TPYP,Tortoise North American Pipeline
+2072571,HAWX,iShares Currency Hedged MSCI ACWI ex US
+2072572,HEWC,iShares Currency Hedged MSCI Canada
+2072573,HEWI,iShares Currency Hedged MSCI Italy
+2072574,HEWL,iShares Currency Hedged MSCI Switzerland
+2072575,HEWP,iShares Currency Hedged MSCI Spain
+2072576,HEWU,iShares Currency Hedged MSCI United Kingdom
+2072578,HEWY,iShares Currency Hedged MSCI South Korea
+2072579,HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap
+2072580,SLDR,ALPS Sector Leaders
+2073576,CIBR,First Trust NASDAQ Cybersecurity
+2073865,CDL,Victory CEMP US Large Cap High Div Volatility Wtd
+2073866,CSA,Victory CEMP US Small Cap Volatility Wtd
+2073867,CSB,Victory CEMP US Small Cap High Div Volatility Wtd
+2073986,KLDW,GaveKal Knowledge Leaders Developed World
+2073987,KLEM,GaveKal Knowledge Leaders Emerging Markets
+2074266,AGGY,WisdomTree Barclays US Aggregate Bd Enh Yield
+2074267,HDWM,WisdomTree International Hedged Equity
+2074268,YLD,Principal EDGE Active Income
+2074681,MOTI,Market Vectors Morningstar International Moat
+2074682,OUSA,O'Shares FTSE US Quality Dividend
+2074995,IPAY,PureFunds ISE Mobile Payments
+2075867,HFXE,IQ 50 Percent Hedged FTSE Europe
+2075868,HFXI,IQ 50 Percent Hedged FTSE International
+2075869,HFXJ,IQ 50 Percent Hedged FTSE Japan
+2076128,CLYH,iShares Interest Rate Hedged 10+Year Credit Bd
+2077052,HHYX,iShares Currency Hdg International High Yld Bd
+2080172,CID,Victory CEMP International High Div Volatility Wtd
+2080173,CIL,Victory CEMP International Volatility Wtd Index
+2082209,VNGDF,Vanguard S&P 500 UCITS USD Inc
+2082746,NFLT,ETFis Virtus Newfleet Multi-Sector Uncons Bond
+2083282,HDAW,Deutsche X-trackers MSCI AW x US HD Yld Hdg Eq
+2083284,HDEF,Deutsche X-trackers MSCI EAFE Hi Dv Yld Hdg Eq
+2084696,CLAW,Direxion Daily Homebuilders & Supplies Bear 3X Shs
+2084697,CRAK,Market Vectors Oil Refiners
+2084705,NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shs
+2084706,WDRW,Direxion Daily Regional Banks Bear 3X Shares
+2086667,OEUH,O'Shares FTSE Europe Quality Dividend Hedged
+2086668,VTEB,Vanguard Tax-Exempt Bond Index
+2092335,IBMJ,iShares iBonds Dec 2021 AMT-Free Muni Bond
+2092336,IBMK,iShares iBonds Dec 2022 AMT-Free Muni Bond
+2093605,VAMO,Cambria Value and Momentum
+2093933,EUDV,ProShares MSCI Europe Dividend Growers
+2095774,GSLC,Goldman Sachs ActiveBeta US Large Cap Equity
+2096729,UTES,ETFis Reaves Utilities
+2096734,SPXE,ProShares S&P 500 Ex Energy
+2099867,GEM,Goldman Sachs ActiveBeta Em Mkts Equity
+2099871,JHML,John Hancock Multifactor Large Cap
+2099873,JHMT,John Hancock Multifactor Technology
+2099874,QGTA,IQ Leaders GTAA Tracker
+2100126,JPUS,JPMorgan Diversified Return US Equity
+2100690,HJPX,iShares Currency Hedged JPX-Nikkei 400
+2102112,XLFS,Financial Services Select Sector SPDR
+2102113,XLRE,Real Estate Select Sector SPDR
+2102319,DWTR,PowerShares DWA Tactical Sector Rotation Portfolio
+2103401,CNCR,Loncar Cancer Immunotherapy
+2104275,HAHA,CSOP China CSI 300 A-H Dynamic
+2104534,SPYD,SPDR S&P 500 High Dividend
+2105649,BITE,Restaurant
+2105652,EMSD,WisdomTree Strong Dollar Emerging Markets Equity
+2105653,EZR,WisdomTree Europe Local Recovery
+2105955,HEFV,iShares Currency Hedged MSCI EAFE Minimum Vol
+2108194,ISHFF,iShares $ Short Duration Corp Bd UCITS
+2109411,IDLB,PowerShares FTSE International Low Beta Equal Weight
+2109412,USLB,PowerShares Russell 1000 Low Beta Equal Weight
+2109811,GSIE,Goldman Sachs ActiveBeta International Equity
+2109825,IAGG,iShares International Aggregate Bond
+2110179,TLEH,FlexShares Curr Hdg Morningstar EM Fctr Tlt Index
+2112148,HGSD,WisdomTree Global Hedged SmallCap Dividend
+2116289,SPYX,SPDR S&P 500 Fossil Fuel Free
+2116722,QMOM,MomentumShares US Quantitative Momentum
+2117242,ONEO,SPDR Russell 1000 Momentum Focus
+2117243,ONEV,SPDR Russell 1000 Low Volatility Focus
+2117244,ONEY,SPDR Russell 1000 Yield Focus
+2117616,GASX,Direxion Daily Natural Gas Related Bear 3X Shares
+2117617,LABS,Direxion Daily S&P Biotech Bear 1X Shares
+2117618,SICK,Direxion Daily Healthcare Bear 3X Shares
+2119645,DXTRF,db x-trackers MSCI Japan Index UCITS 2D (DR)
+2120215,PTEU,Pacer Trendpilot European
+2120700,NANR,SPDR S&P North American Natural Resources
+2121292,DBXRF,db x-trackers MSCI Japan Index UCITS 1C (DR)
+2124351,JPEU,JPMorgan Diversified Return Europe Equity
+2124799,DYB,WisdomTree Dynamic Bearish US Equity
+2124800,DYLS,WisdomTree Dynamic Long Short US Equity
+2124801,IMOM,MomentumShares International Quantitative Momentum
+2126745,LEAD,Reality Shares DIVCON Leaders Dividend
+2127129,DDEZ,WisdomTree Dynamic Currency Hedged Europe Equity
+2127130,DDJP,WisdomTree Dynamic Currency Hedged Japan Equity
+2127132,DDWM,WisdomTree Dynamic Currency Hedged Intl Equity
+2129507,GARD,Reality Shares DIVCON Dividend Guard
+17711783,VA.XTSE,Vng FTSE DevAPI Trust Units ETF
+17711791,VE.XTSE,Vng FTSE DevEI Trust Units ETF

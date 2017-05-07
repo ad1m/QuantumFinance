@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Meta, title, CSS, favicons, etc. -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>YourQuant</title>
+
+  <!-- Bootstrap core CSS -->
+
+  <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+  <link href="../static/fonts/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../static/css/animate.min.css" rel="stylesheet">
+
+  <!-- Custom styling plus plugins -->
+  <link href="../static/css/custom.css" rel="stylesheet">
+  <link href="../static/css/icheck/flat/green.css" rel="stylesheet">
+
+
+  <script src="../static/js/jquery.min.js"></script>
+
+  <!--[if lt IE 9]>
+        <script src="../assets/js/ie8-responsive-file-warning.js"></script>
+        <![endif]-->
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <style> .center {
+    position:absolute;
+    top:20px;
+    right:50%;
+    margin-right:200px;
+}</style>
+
+    <style>
+
+        #logo .fire1{
+
+        -webkit-animation: red 1s infinite linear;
+        -o-animation: red 1s infinite linear;
+        transform:  translateY(-3px) ;
+        -moz-animation: red 1s infinite linear ;
+        animation: red 1s infinite linear ;
+       transition: all 1s ease-in-out
+        }
+         #logo .fire2{
+
+        -webkit-animation: yellow  1s infinite linear;
+        -o-animation: yellow  1s infinite linear;
+        transform:  translateY(-3px) ;
+        -moz-animation: yellow  1s infinite linear ;
+        animation: yellow  1s infinite linear ;
+       transition: all 1s ease-in-out
+}
+
+      @keyframes  red{
+        33.33%{
+          transform:  translateY(-3px) ;
+        opacity: 0.3;
+        }66.66%{
+          transform:  translateY(0px) ;
+        opacity : 0.6;
+        }100%{
+        transform:  translateY(-3px) ;
+         opacity : 1;
+        }
+        }
+
+
+
+@keyframes yellow {
+   33.33%{
+          transform:  translateY(-3px) ;
+        }66.66%{
+          transform:  translateY(0px) ;
+        }100%{
+        transform:  translateY(-3px) ;
+        }
+}
+
+        #logo .bub2, .bub1, .bub3 , .bub4 , .bub5 , .bub6{
+        -webkit-animation:  move 3s infinite linear;
+        -o-animation: move  3s infinite linear;
+        -moz-animation: move   3s infinite linear ;
+        animation:  move  3s infinite linear ;
+        opacity: 0;
+        transition: all 1s ease-in-out
+
+        }
+       @-webkit-keyframes move{
+        25%{
+         transform: translateY(-10px) ;
+        opacity: 0.4;
+        }
+        50%{
+        transform: translateY(-20px) ;
+        opacity: 1;
+
+        }
+        75%{
+        transform: translateY(-30px) ;
+        opacity: 0.4;
+        }
+        100%{
+        transform: translateY(-40px) ;
+        opacity: 0.2;
+        }
+        }
+         #logo .bubb2, .bubb1, .bubb3 , .bubb4 , .bubb5 , .bubb6{
+         -webkit-animation:  movee 3s infinite linear;
+         -o-animation: movee  3s infinite linear;
+         -moz-animation: movee   3s infinite linear ;
+         animation:  movee  3s infinite linear ;
+         opacity: 0;
+         animation-delay:2s;
+         transition: all 1s ease-in-out
+
+        }
+         @-webkit-keyframes movee{
+        25%{
+         transform: translateY(-10px) scaleY(0.8);
+        opacity: 1;
+        }
+        50%{
+        transform: translateY(-20px) scaleY(0.6) ;
+        opacity: 0;
+
+        }
+        75%{
+        transform: translateY(-30px) scaleY(0.4) ;
+        opacity: 0;
+        }
+        100%{
+        transform: translateY(-40px) scaleY(0) ;
+        opacity: 0;
+        }
+        }
+ .
+
+    </style>
+
+
+
+</head>
+
+
+<body class="nav-md">
+
+  <div class="container body">
+
+    <div class="main_container">
+
+      <!-- page content -->
+      <div class="col-md-12">
+        <div class="col-middle">
+          <div class="text-center text-center">
+          <br><br><br>
+            <h1 class="error-number">Quantum</h1>
+            <h2>Financial Rocket Science For The Average Investor</h2>
+            <div class="mid_center">
+              <h3></h3>
+                <div class="col-xs-12 form-group pull-right top_search">    <!-- portfolioinformation -->
+                            <a class="btn btn-default" type="button" href="login.html">Let's Go!</a>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /page content -->
+
+    </div>
+    <!-- footer content -->
+  </div>
+
+  <div id="custom_notifications" class="custom-notifications dsp_none">
+    <ul class="list-unstyled notifications clearfix" data-tabbed_notifications="notif-group">
+    </ul>
+    <div class="clearfix"></div>
+    <div id="notif-group" class="tabbed_notifications"></div>
+  </div>
+
+  <script src="js/bootstrap.min.js"></script>
+
+  <!-- bootstrap progress js -->
+  <script src="../static/js/progressbar/bootstrap-progressbar.min.js"></script>
+  <script src="../static/js/nicescroll/jquery.nicescroll.min.js"></script>
+  <!-- icheck -->
+  <script src="../static/js/icheck/icheck.min.js"></script>
+
+  <script src="../static/js/custom.js"></script>
+  <!-- pace -->
+  <script src="../static/js/pace/pace.min.js"></script>
+  <!-- /footer content -->
+    <div class="centered">
+     <div style="text-align:center;padding:10px 0; margin-left:120px"  >
+
+<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40%" height="40%" viewBox="0 0 537.037 484.424" style="enable-background:new 0 0 537.037 484.424;"
+	 xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{opacity:0.0;fill:url(#SVGID_1_);}
+	.st1{opacity:0.0;fill:url(#SVGID_2_);}
+	.st2{fill:#E3B14D;}
+	.st3{fill:#585857;}
+	.st4{fill:#595857;}
+	.st5{opacity:0.0;fill:url(#SVGID_3_);}
+	.fire1{fill:#F0E161;}
+	.fire2{fill:#F3755D;}
+    .st7{fill:#F3755D;}
+	.st8{opacity:0.1;}
+	.st9{opacity:0.3;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#71716F;}
+    .bub1{opacity:0.9;fill:#FFFFFF;}
+	.bub2{opacity:0.9;fill:#FFFFFF;}
+	.bub3{opacity:0.9;fill:#FFFFFF;}
+	.bub4{opacity:0.9;fill:#FFFFFF;}
+	.bub5{opacity:0.9;fill:#FFFFFF;}
+    .bub6{opacity:0.9;fill:#FFFFFF;}
+	.bubb1{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+	.bubb2{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+	.bubb3{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+	.bubb4{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+	.bubb5{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+	.bubb6{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#9A9A9A;stroke-width:0.7171;stroke-miterlimit:10;}
+]]>
+
+</style>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="164.4551" y1="284.2095" x2="544.5879" y2="284.2095">
+			<stop  offset="0" style="stop-color:#1D1D1B"/>
+			<stop  offset="0.0896" style="stop-color:#1D1D1B;stop-opacity:0.9104"/>
+			<stop  offset="1" style="stop-color:#1D1D1B;stop-opacity:0"/>
+		</linearGradient>
+		<polyline class="st0" points="164.455,225.126 492.85,462.755 544.588,360.601 233.62,105.664 		"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="178.791" y1="467.4556" x2="594.208" y2="467.4556">
+			<stop  offset="0" style="stop-color:#1D1D1B"/>
+			<stop  offset="0.0896" style="stop-color:#1D1D1B;stop-opacity:0.9104"/>
+			<stop  offset="1" style="stop-color:#1D1D1B;stop-opacity:0"/>
+		</linearGradient>
+		<polyline class="st1" points="178.791,360.375 551.925,623.816 594.208,574.586 230.401,311.095 		"/>
+		<g class="st9">
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="117.3237" y1="390.6729" x2="717.5049" y2="390.6729">
+				<stop  offset="0" style="stop-color:#1D1D1B"/>
+				<stop  offset="0.0896" style="stop-color:#1D1D1B;stop-opacity:0.9104"/>
+				<stop  offset="1" style="stop-color:#1D1D1B;stop-opacity:0"/>
+			</linearGradient>
+			<polygon class="st5" points="117.324,385.415 484.212,671.854 717.505,447.321 315.829,109.492 316.813,376.741 			"/>
+		</g>
+	</g>
+	<g>
+		<g class="st8">
+			<path class="st11" d="M181.664,346.397l0.059,15.42c0.018,5.019,4.285,9.076,9.533,9.058l50.844-0.173
+				c5.248-0.016,9.485-4.1,9.468-9.124l-0.058-15.415c-0.017-5.025-4.286-9.084-9.533-9.068l-8.376,0.033l-0.037-9.151
+				c0-0.373-0.07-0.728-0.12-1.094h0.948c3.511-0.014,6.345-2.746,6.329-6.106c-0.012-3.361-2.866-6.075-6.37-6.063l-14.726,0.049
+				l-0.026-6.778l0.022,6.778l-21.023,0.071c-3.51,0.014-6.341,2.748-6.331,6.106c0.012,3.362,2.863,6.076,6.374,6.061l0.945-0.002
+				c-0.042,0.365-0.116,0.72-0.11,1.09l0.036,9.155l-8.377,0.028C185.884,337.289,181.645,341.372,181.664,346.397z"/>
+			<path class="st11" d="M219.597,284.823c0,0-16.088,23.164,0,23.164h0.001l0,0c0.326,0,0.63-0.016,0.916-0.043
+				C235.019,307.042,219.597,284.823,219.597,284.823z"/>
+			<path class="st11" d="M365.506,371.246l-44.744,0.15V151.227c5.97-2.586,10.15-8.525,10.15-15.445s-4.18-12.86-10.15-15.445
+				V95.89h-12.866v24.251c-4.688,1.856-8.347,5.744-9.87,10.589h-51.258c-1.493-2.564-4.058-4.399-7.102-4.885
+				c2.808-1.418,4.739-4.202,4.727-7.454c-0.018-4.674-3.98-8.441-8.861-8.426l-36.354,0.123c-4.878,0.017-8.82,3.815-8.807,8.487
+				c0.015,3.273,1.983,6.065,4.829,7.454c-2.654,0.675-4.867,2.392-6.212,4.702h-15.82v10.104h15.82
+				c1.749,3.003,4.969,5.046,8.695,5.046h1.252l0.077,20.61c-19.521,7.273-33.346,25.43-33.268,46.684
+				c0.101,27.574,23.521,49.85,52.319,49.751c28.788-0.097,52.052-22.528,51.948-50.104c-0.077-20.719-13.322-38.446-32.118-45.937
+				l-0.079-21.005h0.258c3.726,0,6.946-2.042,8.695-5.046h51.258c1.522,4.845,5.182,8.733,9.87,10.588v220.018l-186.685,0.631
+				l0.062,16.965l244.292-0.829L365.506,371.246z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st10" d="M238.027,333.475l-8.376,0.036l-0.038-9.151c0-0.375-0.07-0.728-0.119-1.095l0.948-0.002
+					c3.51-0.012,6.344-2.743,6.329-6.106c-0.012-3.361-2.866-6.074-6.37-6.063l-35.753,0.123c-3.51,0.012-6.341,2.747-6.331,6.105
+					c0.012,3.361,2.863,6.074,6.374,6.061l0.945-0.002c-0.042,0.363-0.116,0.72-0.11,1.091l0.036,9.153l-8.377,0.028
+					c-5.249,0.018-9.488,4.1-9.469,9.125l0.059,15.42c0.018,5.017,4.285,9.076,9.533,9.056l50.844-0.171
+					c5.248-0.018,9.485-4.1,9.468-9.124l-0.059-15.417C247.543,337.518,243.274,333.459,238.027,333.475"/>
+				<g>
+					<path class="st2" d="M243.339,344.403l0.048,11.723c0.011,3.816-3.72,6.924-8.33,6.94l-44.688,0.149
+						c-4.612,0.02-8.365-3.068-8.381-6.885l-0.043-11.721"/>
+					<g>
+						<path class="st13" d="M215.828,351.639c0,0,7.883,1.947,5.911-7.502c-1.158-5.546-5.964-2.759-5.993-9.826l-0.098-29.945"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<path class="st10" d="M233.945,163.265l-0.152-40.301c3.827-0.938,6.667-4.237,6.651-8.193c-0.018-4.674-3.98-8.441-8.861-8.426
+					l-36.354,0.123c-4.878,0.017-8.82,3.815-8.807,8.487c0.021,4.551,3.788,8.219,8.494,8.392l0.147,39.523
+					c-19.522,7.273-33.346,25.43-33.268,46.685c0.101,27.574,23.521,49.85,52.319,49.751c28.788-0.097,52.052-22.528,51.948-50.103
+					C265.986,188.483,252.741,170.755,233.945,163.265"/>
+				<g>
+					<g>
+						<path class="st7" d="M169.219,209.526c0.087,23.649,20.175,42.756,44.871,42.67c24.692-0.081,44.642-19.322,44.555-42.97
+							L169.219,209.526z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<polygon class="st3" points="361.613,384.588 117.324,385.415 117.263,368.452 361.554,367.625 				"/>
+				<g>
+					<g>
+						<rect x="169.219" y="127.11" class="st3" width="135.661" height="10.104"/>
+						<path class="st4" d="M244.222,132.162c0,5.577-4.521,10.098-10.098,10.098h-40.39c-5.576,0-10.097-4.521-10.097-10.098l0,0
+							c0-5.576,4.521-10.098,10.097-10.098h40.39C239.701,122.064,244.222,126.585,244.222,132.162L244.222,132.162z"/>
+					</g>
+					<g>
+						<rect x="303.947" y="92.271" class="st3" width="12.866" height="284.47"/>
+						<g>
+							<circle class="st3" cx="310.133" cy="132.162" r="16.83"/>
+							<circle class="st11" cx="310.133" cy="132.162" r="10.097"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="fire">
+	<path class="fire2" d="M215.648,281.205c0,0-16.088,23.161,0,23.161C231.735,304.366,215.648,281.205,215.648,281.205z"/>
+	<path class="fire1" d="M215.649,289.375c0,0-10.412,14.991,0,14.991C226.06,304.366,215.649,289.375,215.649,289.375z"/>
+</g>
+
+
+<g id="buble">
+	<circle class="bub1" cx="191.826" cy="236.657" r="3.366"/>
+	<circle class="bub2" cx="233.368" cy="219.154" r="4.039"/>
+	<circle class="bub3" cx="217.548" cy="226.643" r="2.356"/>
+	<circle class="bub4" cx="231.251" cy="236.657" r="1.347"/>
+	<circle class="bub5" cx="207.548" cy="244.819" r="2.356"/>
+	<circle class="bub6" cx="201.975" cy="219.154" r="1.598"/>
+</g>
+<g id="buble2">
+	<circle class="bubb1" cx="195.587" cy="91.94" r="7.64"/>
+	<circle class="bubb2" cx="226.142" cy="52.221" r="9.166"/>
+	<circle class="bubb3" cx="208.573" cy="69.216" r="5.346"/>
+	<circle class="bubb4" cx="216.975" cy="91.94" r="3.057"/>
+	<circle class="bubb5" cx="208.573" cy="110.462" r="5.346"/>
+	<circle class="bubb6" cx="191.387" cy="52.221" r="3.627"/>
+</g>
+
+</svg>
+
+    </div>
+    </div>
+
+
+
+</body>
+
+</html>
