@@ -100,6 +100,4 @@ twython==3.2.0
 virtualenv==13.1.0
 wrapt==1.10.6
 wsgiref==0.1.2
-wxPython==3.0.0.0
-wxPython-common==3.0.0.0
 yahoo-finance==1.2.1
